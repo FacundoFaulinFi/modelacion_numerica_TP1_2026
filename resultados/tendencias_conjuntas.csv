@@ -1,0 +1,5 @@
+﻿parametro,signo_esperado,comparaciones,inversiones,menor_cambio_segun_signo
+A,1,5832,0,0.021489574749741946
+beta,1,5832,0,0.003802451477767449
+gamma,-1,5832,0,0.003939329261247765
+sigma,1,5832,0,0.0033854664832944636
