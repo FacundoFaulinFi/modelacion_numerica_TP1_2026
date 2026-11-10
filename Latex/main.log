@@ -1,9 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.11.5)  10 NOV 2026 11:33
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.11.5)  10 NOV 2026 12:01
 entering extended mode
  restricted \write18 enabled.
+ file:line:error style messages enabled.
  %&-line parsing enabled.
-**./main.tex
-(main.tex
+**"c:/Users/Facundo/PERSONAL/UBA/Modelacion Numerica/modelacion_numerica_TP1_2026/Latex/main.tex"
+(c:/Users/Facundo/PERSONAL/UBA/Modelacion Numerica/modelacion_numerica_TP1_2026/Latex/main.tex
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-12-24>
 (estilo.cls
@@ -24,82 +25,55 @@ File: size10.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
 \abovecaptionskip=\skip49
 \belowcaptionskip=\skip50
 \bibindent=\dimen148
-)
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
+) (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
 Package: hyperref 2025-07-12 v7.01o Hypertext links for LaTeX
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+ (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
 Package: iftex 2024/12/12 v1.0g TeX engine tests
-)
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+) (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
 Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
 \KV@toks@=\toks17
-)
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.s
-ty
+) (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
 Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
-)
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefi
-nekeys.sty
+) (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefinekeys.sty
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
-)
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape
-.sty
+) (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.sty
 Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
-
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+ (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
 Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
-)
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcm
-ds.sty
-Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
-)
-
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr
-.sty
+) (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+ (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.sty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 )
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
-))
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
+)) (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
 Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
-)
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
+) (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
 Package: nameref 2025-06-21 v2.57 Cross-referencing by name of section
-
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
+ (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
 Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
-)
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gett
-itlestring.sty
+) (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
-
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.s
-ty
+ (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
 Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
 ))
 \c@section@level=\count283
-)
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+) (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
 Package: etoolbox 2025/10/02 v2.5m e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count284
-)
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/generic/stringenc\stringenc
-.sty
-Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
-)
+) (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/generic/stringenc\stringenc.sty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO)
 )
 \@linkdim=\dimen149
 \Hy@linkcounter=\count285
 \Hy@pagecounter=\count286
-
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
+ (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
 File: pd1enc.def 2025-07-12 v7.01o Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
-)
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
+) (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
 \Hy@SavedSpaceFactor=\count287
@@ -117,20 +91,16 @@ Package hyperref Info: Backreferencing OFF on input line 4215.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4462.
 \c@Hy@tempcnt=\count288
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+ (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
 \Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 4801.
 \XeTeXLinkMargin=\dimen150
-
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
+ (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
-
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintca
-lc.sty
-Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
-)
+ (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
 ))
 \Fld@menulength=\count289
 \Field@Width=\dimen151
@@ -147,52 +117,34 @@ Package hyperref Info: PDF/A mode OFF on input line 6108.
 \c@Hfootnote=\count292
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
-
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
+ (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
 File: hpdftex.def 2025-07-12 v7.01o Hyperref driver for pdfTeX
 \Fld@listcount=\count293
 \c@bookmark@seq@number=\count294
-
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunf
-ilecheck.sty
+ (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfilecheck.sty
 Package: rerunfilecheck 2025-06-21 v1.11 Rerun checks for auxiliary files (HO)
-
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniqu
-ecounter.sty
+ (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquecounter.sty
 Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 )
-Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
-84.
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 284.
 )
 \Hy@SectionHShift=\skip51
-)
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/tools\verbatim.sty
+) (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/tools\verbatim.sty
 Package: verbatim 2024-01-22 v1.5x LaTeX2e package for verbatim enhancements
 \every@verbatim=\toks18
 \verbatim@line=\toks19
 \verbatim@in@stream=\read2
-)
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/attachfile2\attachfil
-e2.sty
+) (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/attachfile2\attachfile2.sty
 Package: attachfile2 2024-01-18 v2.12 Attach files into PDF (HO)
-
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/graphics\color.sty
+ (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/graphics\color.sty
 Package: color 2025/01/14 v1.3e Standard LaTeX Color (DPC)
-
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cf
-g
+ (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package color Info: Driver file: pdftex.def on input line 149.
-
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.d
-ef
+ (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
 File: pdftex.def 2025/09/29 v1.2d Graphics/color driver for pdftex
-)
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.lt
-x))
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/attachfile2\atfi-pdft
-ex.def
+) (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)) (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/attachfile2\atfi-pdftex.def
 File: atfi-pdftex.def 2024-01-18 v2.12 attachfile2 driver for pdfTeX (HO)
 ) (main.atfi)
 \atfi@stream=\write3
@@ -203,55 +155,27 @@ File: atfi-pdftex.def 2024-01-18 v2.12 attachfile2 driver for pdfTeX (HO)
 \atfi@appearancedepth=\skip54
 \atfi@appearancebox=\box53
 \c@atfi@flags=\count295
-)
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xpa
-rse.sty
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
+) (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xparse.sty (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
 Package: expl3 2025-12-24 L3 programming layer (loader) 
-
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-p
-dftex.def
+ (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count296
 ))
 Package: xparse 2025-10-09 L3 Experimental document command parser
-)
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgffor.
-sty
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfrcs.
-sty
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfut
-il-common.tex
+) (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgffor.sty (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfrcs.sty (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-common.tex
 \pgfutil@everybye=\toks20
 \pgfutil@tempdima=\dimen153
 \pgfutil@tempdimb=\dimen154
-)
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfut
-il-latex.def
+) (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-latex.def
 \pgfutil@abb=\box54
-)
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfrc
-s.code.tex
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.revision.te
-x)
+) (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfrcs.code.tex (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.revision.tex)
 Package: pgfrcs 2025-08-29 v3.1.11a (3.1.11a)
-))
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfkeys
-.sty
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfke
-ys.code.tex
+)) (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfkeys.sty (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys.code.tex
 \pgfkeys@pathtoks=\toks21
 \pgfkeys@temptoks=\toks22
-
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfke
-yslibraryfiltered.code.tex
+ (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeyslibraryfiltered.code.tex
 \pgfkeys@tmptoks=\toks23
-)))
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/pgf/math\pgfmath.sty
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.co
-de.tex
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathuti
-l.code.tex
+))) (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/pgf/math\pgfmath.sty (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathutil.code.tex
 \pgf@x=\dimen155
 \pgf@xa=\dimen156
 \pgf@xb=\dimen157
@@ -264,50 +188,22 @@ l.code.tex
 \c@pgf@countb=\count298
 \c@pgf@countc=\count299
 \c@pgf@countd=\count300
-)
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathpar
-ser.code.tex
+) (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathparser.code.tex
 \pgfmath@dimen=\dimen163
 \pgfmath@count=\count301
 \pgfmath@box=\box55
 \pgfmath@toks=\toks24
 \pgfmath@stack@operand=\toks25
 \pgfmath@stack@operation=\toks26
-)
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfun
-ctions.code.tex)
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfun
-ctions.basic.code.tex)
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfun
-ctions.trigonometric.code.tex)
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfun
-ctions.random.code.tex)
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfun
-ctions.comparison.code.tex)
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfun
-ctions.base.code.tex)
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfun
-ctions.round.code.tex)
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfun
-ctions.misc.code.tex)
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfun
-ctions.integerarithmetics.code.tex)
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathcal
-c.code.tex)
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathflo
-at.code.tex
+) (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.code.tex) (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.basic.code.tex) (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.trigonometric.code.tex) (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.random.code.tex) (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.comparison.code.tex) (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.base.code.tex) (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.round.code.tex) (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.misc.code.tex) (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.integerarithmetics.code.tex) (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathcalc.code.tex) (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfloat.code.tex
 \c@pgfmathroundto@lastzeros=\count302
-)))
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgffo
-r.code.tex
+))) (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgffor.code.tex
 Package: pgffor 2025-08-29 v3.1.11a (3.1.11a)
 \pgffor@iter=\dimen164
 \pgffor@skip=\dimen165
 \pgffor@stack=\toks27
 \pgffor@toks=\toks28
-))
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/arrayjob\arrayjobx.st
-y
+)) (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/arrayjob\arrayjobx.sty
 Package: arrayjobx 2010/05/03 v1.04 Array management
 \dataheight=\count303
 \array@width=\count304
@@ -317,27 +213,21 @@ Package: arrayjobx 2010/05/03 v1.04 Array management
 \temp@count=\count307
 \temp@@count=\count308
 \temp@@@count=\count309
-)
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+) (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
 Package: graphicx 2024/12/31 v1.2e Enhanced LaTeX Graphics (DPC,SPQR)
-
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+ (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
 Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+ (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
 Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
-)
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics
-.cfg
+) (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 106.
 )
 \Gin@req@height=\dimen166
 \Gin@req@width=\dimen167
-)
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
+) (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
 Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
-
 \f@nch@headwidth=\skip55
 \f@nch@offset@elh=\skip56
 \f@nch@offset@erh=\skip57
@@ -353,25 +243,17 @@ Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
 \f@nch@widthC=\skip67
 \f@nch@widthR=\skip68
 \@temptokenb=\toks30
-)
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/lastpage\lastpage.sty
+) (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/lastpage\lastpage.sty
 Package: lastpage 2025/08/14 v2.1h lastpage: 2.09 or 2e? (HMM)
-
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/lastpage\lastpage2e.s
-ty
-Package: lastpage2e 2025/08/14 v2.1h Decide which 2e lastpage version to use (H
-MM)
-
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/lastpage\lastpagemode
-rn.sty
+ (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/lastpage\lastpage2e.sty
+Package: lastpage2e 2025/08/14 v2.1h Decide which 2e lastpage version to use (HMM)
+ (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/lastpage\lastpagemodern.sty
 Package: lastpagemodern 2025-08-14 v2.1h Refers to last page's name (HMM; JPG)
 \c@lastpagecount=\count310
 ) 
-))
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/ragged2e\ragged2e.sty
+)) (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/ragged2e\ragged2e.sty
 Package: ragged2e 2023/06/22 v3.6 ragged2e Package
-
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/footmisc\footmisc.sty
+ (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/footmisc\footmisc.sty
 Package: footmisc 2025/05/09 v7.0b a miscellany of footnote facilities
 \FN@temptoken=\toks31
 \footnotemargin=\dimen168
@@ -379,10 +261,8 @@ Package footmisc Info: Declaring symbol style bringhurst on input line 549.
 Package footmisc Info: Declaring symbol style chicago on input line 557.
 Package footmisc Info: Declaring symbol style wiley on input line 566.
 Package footmisc Info: Declaring symbol style lamport-robust on input line 577.
-
 Package footmisc Info: Declaring symbol style lamport* on input line 597.
-Package footmisc Info: Declaring symbol style lamport*-robust on input line 618
-.
+Package footmisc Info: Declaring symbol style lamport*-robust on input line 618.
 )
 \CenteringLeftskip=\skip69
 \RaggedLeftLeftskip=\skip70
@@ -398,36 +278,25 @@ Package footmisc Info: Declaring symbol style lamport*-robust on input line 618
 \RaggedLeftParindent=\skip80
 \RaggedRightParindent=\skip81
 \JustifyingParindent=\skip82
-) (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.sty
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/l3keys2e\l
-3keys2e.sty
+) (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.sty (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/l3keys2e\l3keys2e.sty
 Package: l3keys2e 2025-10-09 LaTeX2e option processing using LaTeX3 keys
 )
 Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
 \g__lipsum_par_int=\count311
 \l__lipsum_a_int=\count312
 \l__lipsum_b_int=\count313
-
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.ltd.tex
-))
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/translations\translat
-ions.sty
-Package: translations 2022/02/05 v1.12 internationalization of LaTeX2e packages
- (CN)
-)
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
+ (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.ltd.tex)) (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/translations\translations.sty
+Package: translations 2022/02/05 v1.12 internationalization of LaTeX2e packages (CN)
+) (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
 Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
-)
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/xstring\xstring.sty
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/generic/xstring\xstring.tex
+) (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/xstring\xstring.sty (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/generic/xstring\xstring.tex
 \xs_counta=\count314
 \xs_countb=\count315
 )
 Package: xstring 2023/08/22 v1.86 String manipulations (CT)
-)
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+) (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
 Package: geometry 2026/03/07 v6.0 Page Geometry
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+ (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 )
 \Gm@cnth=\count316
@@ -442,14 +311,11 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 \Gm@layouthoffset=\dimen175
 \Gm@layoutvoffset=\dimen176
 \Gm@dimlist=\toks32
-
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg
-)) (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+ (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg)) (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
 Package: inputenc 2024/02/08 v1.3d Input encoding file
 \inpenc@prehook=\toks33
 \inpenc@posthook=\toks34
-)
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.sty
+) (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.sty
 Package: csquotes 2026-05-19 v5.2p context-sensitive quotations (JAW)
 \csq@reset=\count319
 \csq@gtype=\count320
@@ -458,20 +324,16 @@ Package: csquotes 2026-05-19 v5.2p context-sensitive quotations (JAW)
 \csq@maxlvl=\count323
 \csq@tshold=\count324
 \csq@ltx@everypar=\toks35
-
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.def
+ (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.def
 File: csquotes.def 2026-05-19 v5.2p csquotes generic definitions (JAW)
 )
 Package csquotes Info: Trying to load configuration file 'csquotes.cfg'...
 Package csquotes Info: ... configuration file loaded successfully.
-
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.cfg
+ (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.cfg
 File: csquotes.cfg 
-))
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
+)) (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
 Package: caption 2023/08/05 v3.6o Customizing captions (AR)
-
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
+ (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
 Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
 \caption@tempdima=\dimen177
 \captionmargin=\dimen178
@@ -486,19 +348,9 @@ Package caption Info: Standard document class detected.
 \c@caption@flags=\count325
 \c@continuedfloat=\count326
 Package caption Info: hyperref package is loaded.
-)
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendlayer\tik
-z.sty
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.st
-y
+) (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendlayer\tikz.sty (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.sty
 Package: pgf 2025-08-29 v3.1.11a (3.1.11a)
-
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgfcor
-e.sty
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemlayer\pgfsy
-s.sty
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf
-sys.code.tex
+ (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgfcore.sty (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemlayer\pgfsys.sty (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys.code.tex
 Package: pgfsys 2025-08-29 v3.1.11a (3.1.11a)
 \pgf@x=\dimen185
 \pgf@y=\dimen186
@@ -520,43 +372,28 @@ Package: pgfsys 2025-08-29 v3.1.11a (3.1.11a)
 \t@pgf@tokb=\toks37
 \t@pgf@tokc=\toks38
 \pgf@sys@id@count=\count331
-
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf
-.cfg
+ (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf.cfg
 File: pgf.cfg 2025-08-29 v3.1.11a (3.1.11a)
 )
 Driver file for pgf: pgfsys-pdftex.def
-
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf
-sys-pdftex.def
+ (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-pdftex.def
 File: pgfsys-pdftex.def 2025-08-29 v3.1.11a (3.1.11a)
-
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf
-sys-common-pdf.def
+ (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-common-pdf.def
 File: pgfsys-common-pdf.def 2025-08-29 v3.1.11a (3.1.11a)
-)))
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf
-syssoftpath.code.tex
+))) (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsyssoftpath.code.tex
 File: pgfsyssoftpath.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgfsyssoftpath@smallbuffer@items=\count332
 \pgfsyssoftpath@bigbuffer@items=\count333
-)
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf
-sysprotocol.code.tex
+) (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsysprotocol.code.tex
 File: pgfsysprotocol.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-))
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+)) (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
 Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
-
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cf
-g
+ (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 274.
 LaTeX Info: Redefining \color on input line 762.
-
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.lt
-x)
+ (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1349.
 Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1353.
 Package xcolor Info: Model `RGB' extended on input line 1365.
@@ -566,15 +403,9 @@ Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1370.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1371.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
-)
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
-ore.code.tex
+) (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore.code.tex
 Package: pgfcore 2025-08-29 v3.1.11a (3.1.11a)
-
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfint.cod
-e.tex)
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
-orepoints.code.tex
+ (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfint.code.tex) (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepoints.code.tex
 File: pgfcorepoints.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgf@picminx=\dimen195
 \pgf@picmaxx=\dimen196
@@ -590,113 +421,69 @@ File: pgfcorepoints.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgf@yy=\dimen262
 \pgf@zx=\dimen263
 \pgf@zy=\dimen264
-)
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
-orepathconstruct.code.tex
+) (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathconstruct.code.tex
 File: pgfcorepathconstruct.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgf@path@lastx=\dimen265
 \pgf@path@lasty=\dimen266
-)
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
-orepathusage.code.tex
+) (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathusage.code.tex
 File: pgfcorepathusage.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgf@shorten@end@additional=\dimen267
 \pgf@shorten@start@additional=\dimen268
-)
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
-orescopes.code.tex
+) (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorescopes.code.tex
 File: pgfcorescopes.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgfpic=\box56
 \pgf@hbox=\box57
 \pgf@layerbox@main=\box58
 \pgf@picture@serial@count=\count334
-)
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
-oregraphicstate.code.tex
+) (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoregraphicstate.code.tex
 File: pgfcoregraphicstate.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgflinewidth=\dimen269
-)
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
-oretransformations.code.tex
+) (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoretransformations.code.tex
 File: pgfcoretransformations.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgf@pt@x=\dimen270
 \pgf@pt@y=\dimen271
 \pgf@pt@temp=\dimen272
-)
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
-orequick.code.tex
+) (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorequick.code.tex
 File: pgfcorequick.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-)
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
-oreobjects.code.tex
+) (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreobjects.code.tex
 File: pgfcoreobjects.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-)
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
-orepathprocessing.code.tex
+) (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathprocessing.code.tex
 File: pgfcorepathprocessing.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-)
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
-orearrows.code.tex
+) (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorearrows.code.tex
 File: pgfcorearrows.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgfarrowsep=\dimen273
-)
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
-oreshade.code.tex
+) (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreshade.code.tex
 File: pgfcoreshade.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgf@max=\dimen274
 \pgf@sys@shading@range@num=\count335
 \pgf@shadingcount=\count336
-)
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
-oreimage.code.tex
+) (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreimage.code.tex
 File: pgfcoreimage.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-)
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
-oreexternal.code.tex
+) (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreexternal.code.tex
 File: pgfcoreexternal.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgfexternal@startupbox=\box59
-)
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
-orelayers.code.tex
+) (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorelayers.code.tex
 File: pgfcorelayers.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-)
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
-oretransparency.code.tex
+) (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoretransparency.code.tex
 File: pgfcoretransparency.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-)
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
-orepatterns.code.tex
+) (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepatterns.code.tex
 File: pgfcorepatterns.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-)
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
-orerdf.code.tex
+) (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorerdf.code.tex
 File: pgfcorerdf.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-)))
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodu
-leshapes.code.tex
+))) (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmoduleshapes.code.tex
 File: pgfmoduleshapes.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgfnodeparttextbox=\box60
-)
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodu
-leplot.code.tex
+) (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmoduleplot.code.tex
 File: pgfmoduleplot.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-)
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgf
-comp-version-0-65.sty
+) (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-version-0-65.sty
 Package: pgfcomp-version-0-65 2025-08-29 v3.1.11a (3.1.11a)
 \pgf@nodesepstart=\dimen275
 \pgf@nodesepend=\dimen276
-)
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgf
-comp-version-1-18.sty
+) (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-version-1-18.sty
 Package: pgfcomp-version-1-18 2025-08-29 v3.1.11a (3.1.11a)
-))
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/t
-ikz\tikz.code.tex
+)) (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz\tikz.code.tex
 Package: tikz 2025-08-29 v3.1.11a (3.1.11a)
-
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgfli
-braryplothandlers.code.tex
+ (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibraryplothandlers.code.tex
 File: pgflibraryplothandlers.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgf@plot@mark@count=\count337
 \pgfplotmarksize=\dimen277
@@ -717,63 +504,45 @@ File: pgflibraryplothandlers.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \tikznumberofchildren=\count339
 \tikznumberofcurrentchild=\count340
 \tikz@fig@count=\count341
-
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodu
-lematrix.code.tex
+ (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodulematrix.code.tex
 File: pgfmodulematrix.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgfmatrixcurrentrow=\count342
 \pgfmatrixcurrentcolumn=\count343
 \pgf@matrix@numberofcolumns=\count344
 )
 \tikz@expandcount=\count345
-
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/t
-ikz/libraries\tikzlibrarytopaths.code.tex
+ (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarytopaths.code.tex
 File: tikzlibrarytopaths.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-)))
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xfp\xfp.st
-y
+))) (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xfp\xfp.sty
 Package: xfp 2025-10-09 L3 Floating point unit
 )) (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
-Package: babel 2025/12/11 v25.17 The multilingual framework for LuaLaTeX, pdfLa
-TeX and XeLaTeX
+Package: babel 2025/12/11 v25.17 The multilingual framework for LuaLaTeX, pdfLaTeX and XeLaTeX
 \babel@savecnt=\count346
-LaTeX Encoding Info:    Redeclaring text command \ij (encoding OT1) on input li
-ne 2068.
-LaTeX Encoding Info:    Redeclaring text command \IJ (encoding OT1) on input li
-ne 2070.
-LaTeX Encoding Info:    Redeclaring text command \ij (encoding T1) on input lin
-e 2072.
-LaTeX Encoding Info:    Redeclaring text command \IJ (encoding T1) on input lin
-e 2073.
-LaTeX Encoding Info:    Ignoring declaration for text command \ij (encoding ?) 
-on input line 2074.
-LaTeX Encoding Info:    Ignoring declaration for text command \IJ (encoding ?) 
-on input line 2076.
-LaTeX Encoding Info:    Ignoring declaration for text command \SS (encoding ?) 
-on input line 2101.
+LaTeX Encoding Info:    Redeclaring text command \ij (encoding OT1) on input line 2068.
+LaTeX Encoding Info:    Redeclaring text command \IJ (encoding OT1) on input line 2070.
+LaTeX Encoding Info:    Redeclaring text command \ij (encoding T1) on input line 2072.
+LaTeX Encoding Info:    Redeclaring text command \IJ (encoding T1) on input line 2073.
+LaTeX Encoding Info:    Ignoring declaration for text command \ij (encoding ?) on input line 2074.
+LaTeX Encoding Info:    Ignoring declaration for text command \IJ (encoding ?) on input line 2076.
+LaTeX Encoding Info:    Ignoring declaration for text command \SS (encoding ?) on input line 2101.
 \U@D=\dimen286
 \l@unhyphenated=\language79
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
+ (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
 \bbl@readstream=\read4
 \bbl@dirlevel=\count347
 Package babel Info: Configuration files are deprecated, as
 (babel)             they can break document portability.
 (babel)             Reported on input line 4196.
+
 *************************************
 * Local config file bblopts.cfg used
 *
 (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
-File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
- babel
-)
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/es\bab
-el-spanish.tex)
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of babel
+) (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/es\babel-spanish.tex)
 Package babel Info: Importing font and identification data for spanish
 (babel)             from babel-es.ini. Reported on input line 4320.
-
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/babel-spanish\spanish
-.ldf
+ (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/babel-spanish\spanish.ldf
 Language: spanish.ldf 2021/05/27 v5.0q Spanish support from the babel system
 \es@quottoks=\toks39
 \es@quotdepth=\count348
@@ -782,14 +551,11 @@ Package babel Info: Making . an active character on input line 675.
 Package babel Info: Making < an active character on input line 722.
 Package babel Info: Making > an active character on input line 722.
 ))
-LaTeX Encoding Info:    Redeclaring text command \guillemotleft (encoding OT1) 
-on input line 3.
-LaTeX Encoding Info:    Redeclaring text command \guillemotright (encoding OT1)
- on input line 3.
-
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/makecell\makecell.sty
+LaTeX Encoding Info:    Redeclaring text command \guillemotleft (encoding OT1) on input line 3.
+LaTeX Encoding Info:    Redeclaring text command \guillemotright (encoding OT1) on input line 3.
+ (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/makecell\makecell.sty
 Package: makecell 2009/08/03 V0.1e Managing of Tab Column Heads and Cells
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
+ (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
 Package: array 2025/09/25 v2.6n Tabular extension package (FMi)
 \col@sep=\dimen287
 \ar@mcellbox=\box65
@@ -802,33 +568,28 @@ Package: array 2025/09/25 v2.6n Tabular extension package (FMi)
 \rotheadsize=\dimen289
 \c@nlinenum=\count349
 \TeXr@lab=\toks41
-)
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+) (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count350
 \float@exts=\toks42
 \float@box=\box67
 \@float@everytoks=\toks43
 \@floatcapt=\box68
-)
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+) (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
 Package: amsmath 2025/07/09 v2.17z AMS math features
 \@mathmargin=\skip85
 
 For additional information on amsmath, use the `?' option.
 (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
 Package: amstext 2024/11/17 v2.01 AMS text
-
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+ (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks44
 \ex@=\dimen290
-))
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+)) (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen291
-)
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+) (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
 Package: amsopn 2022/04/08 v2.04 operator names
 )
 \inf@bad=\count351
@@ -878,30 +639,24 @@ LaTeX Info: Redefining \Relbar on input line 970.
 \mathdisplay@stack=\toks48
 LaTeX Info: Redefining \[ on input line 2950.
 LaTeX Info: Redefining \] on input line 2951.
-)
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+) (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
 LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
-)
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
+) (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
-)
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/multirow\multirow.sty
+) (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/multirow\multirow.sty
 Package: multirow 2024/11/12 v2.9 Span multiple rows of a table
 \multirow@colwidth=\skip88
 \multirow@cntb=\count363
 \multirow@dima=\skip89
 \bigstrutjot=\dimen299
-)
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/doublestroke\dsfont.s
-ty
+) (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/doublestroke\dsfont.sty
 Package: dsfont 1995/08/01 v0.1 Double stroke roman fonts
-)
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.sty
+) (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.sty
 \lst@mode=\count364
 \lst@gtempboxa=\box71
 \lst@token=\toks49
@@ -914,17 +669,14 @@ Package: dsfont 1995/08/01 v0.1 Double stroke roman fonts
 \lst@newlines=\count368
 \lst@lineno=\count369
 \lst@maxwidth=\dimen303
-
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstpatch.sty
+ (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstpatch.sty
 File: lstpatch.sty 2025/11/14 1.11b (Carsten Heinz)
-)
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
+) (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
 File: lstmisc.sty 2025/11/14 1.11b (Carsten Heinz)
 \c@lstnumber=\count370
 \lst@skipnumbers=\count371
 \lst@framebox=\box72
-)
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.cfg
+) (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.cfg
 File: listings.cfg 2025/11/14 1.11b listings configuration
 ))
 Package: listings 2025/11/14 1.11b (Carsten Heinz)
@@ -935,7 +687,6 @@ Package: listings 2025/11/14 1.11b (Carsten Heinz)
     but found:
         2025/11/14 1.11b (Carsten Heinz)
     so I'm assuming it got fixed.
-
 (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\booktabs.sty
 Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \heavyrulewidth=\dimen304
@@ -955,8 +706,7 @@ Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \@thisruleclass=\count374
 \@lastruleclass=\count375
 \@thisrulewidth=\dimen316
-)
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.sty
+) (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.sty
 Package: enumitem 2025/02/06 v3.11 Customized lists
 \labelindent=\skip90
 \enit@outerparindent=\dimen317
@@ -1034,20 +784,16 @@ Package: multicol 2025/10/21 v2.0b multicolumn formatting (FMi)
 \colbreak@box=\box119
 \mc@col@check@num=\count387
 \g__mc_curr_col_int=\count388
-)
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setspace.sty
+) (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setspace.sty
 Package: setspace 2022/12/04 v6.7b set line spacing
 )
 \c@subenum=\count389
  (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp.sty
 Package: fp 1995/04/02
-
-`Fixed Point Package', Version 0.8, April 2, 1995 (C) Michael Mehlich
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/fp\defpattern.sty
+ `Fixed Point Package', Version 0.8, April 2, 1995 (C) Michael Mehlich (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/fp\defpattern.sty
 Package: defpattern 1994/10/12
 \actioncount=\count390
-)
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp-basic.sty
+) (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp-basic.sty
 Package: fp-basic 1996/05/13
 \FP@xs=\count391
 \FP@xia=\count392
@@ -1058,39 +804,28 @@ Package: fp-basic 1996/05/13
 \FP@regb=\count397
 \FP@regs=\count398
 \FP@times=\count399
-)
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp-addons.sty
+) (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp-addons.sty
 Package: fp-addons 1995/03/15
-)
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp-snap.sty
+) (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp-snap.sty
 Package: fp-snap 1995/04/05
-)
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp-exp.sty
+) (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp-exp.sty
 Package: fp-exp 1995/04/03
-)
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp-trigo.sty
+) (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp-trigo.sty
 Package: fp-trigo 1995/04/14
-)
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp-pas.sty
+) (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp-pas.sty
 Package: fp-pas 1994/08/29
-)
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp-random.sty
+) (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp-random.sty
 Package: fp-random 1995/02/23
 \FPseed=\count400
-)
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp-eqn.sty
+) (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp-eqn.sty
 Package: fp-eqn 1995/04/03
-)
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp-upn.sty
+) (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp-upn.sty
 Package: fp-upn 1996/10/21
-)
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp-eval.sty
+) (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp-eval.sty
 Package: fp-eval 1995/04/03
-))
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/scalerel\scalerel.sty
-Package: scalerel 2016/12/29 v1.8 Routines for constrained scaling and stretchi
-ng of objects, relative to a reference object or in absolute terms
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty
+)) (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/scalerel\scalerel.sty
+Package: scalerel 2016/12/29 v1.8 Routines for constrained scaling and stretching of objects, relative to a reference object or in absolute terms
+ (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty
 Package: calc 2025/03/01 v4.3b Infix arithmetic (KKT,FJ)
 \calc@Acount=\count401
 \calc@Bcount=\count402
@@ -1110,21 +845,13 @@ LaTeX Info: Redefining \addtolength on input line 87.
 \mnxsrwidth=\skip100
 \LMex=\skip101
 \LMpt=\skip102
-)
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/stackengine\stackengi
-ne.sty
-Package: stackengine 2021/07/22 v4.11\ Stacking text and objects in convenient 
-ways
-
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/listofitems\listofite
-ms.sty
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/generic/listofitems\listofi
-tems.tex
+) (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/stackengine\stackengine.sty
+Package: stackengine 2021/07/22 v4.11\ Stacking text and objects in convenient ways
+ (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/listofitems\listofitems.sty (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/generic/listofitems\listofitems.tex
 \loi_cnt_foreach_nest=\count404
 \loi_nestcnt=\count405
 )
-Package: listofitems 2024/03/09 v1.65 Grab items in lists using user-specified 
-sep char (CT)
+Package: listofitems 2024/03/09 v1.65 Grab items in lists using user-specified sep char (CT)
 )
 \c@@stackindex=\count406
 \@boxshift=\skip103
@@ -1138,12 +865,9 @@ sep char (CT)
 \stackedbox=\box124
 \@centerbox=\box125
 \c@ROWcellindex@=\count407
-)
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/mathtools\mathtools.s
-ty
+) (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/mathtools\mathtools.sty
 Package: mathtools 2024/10/04 v1.31 mathematical typesetting tools
-
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/mathtools\mhsetup.sty
+ (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/mathtools\mhsetup.sty
 Package: mhsetup 2021/03/18 v1.4 programming setup (MH)
 )
 \g_MT_multlinerow_int=\count408
@@ -1157,14 +881,12 @@ Package: mhsetup 2021/03/18 v1.4 programming setup (MH)
 \l_MT_below_shortintertext_sep=\dimen335
 \xmathstrut@box=\box126
 \xmathstrut@dim=\dimen336
-)
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.sty
+) (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.sty
 Package: biblatex 2025/07/10 v3.21 programmable bibliographies (PK/MW)
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.sty
+ (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.sty
 Package: logreq 2010/08/04 v1.0 xml request logger
 \lrq@indent=\count409
-
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.def
+ (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.def
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 ))
 \c@tabx@nest=\count410
@@ -1226,8 +948,7 @@ File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 \c@mincompwidth=\count455
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
-
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-dm.def
+ (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-dm.def
 File: blx-dm.def 2025/07/10 v3.21 biblatex datamodel (PK/MW)
 )
 Package biblatex Info: Trying to load biblatex style data model...
@@ -1318,15 +1039,12 @@ Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
 \localshorteditorwidth=\skip129
 Package biblatex Info: Trying to load compatibility code...
 Package biblatex Info: ... file 'blx-compat.def' found.
-
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-compat.d
-ef
+ (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-compat.def
 File: blx-compat.def 2025/07/10 v3.21 biblatex compatibility (PK/MW)
 )
 Package biblatex Info: Trying to load generic definitions...
 Package biblatex Info: ... file 'biblatex.def' found.
-
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.def
+ (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.def
 File: biblatex.def 2025/07/10 v3.21 biblatex compatibility (PK/MW)
 \c@textcitecount=\count524
 \c@textcitetotal=\count525
@@ -1344,30 +1062,22 @@ File: biblatex.def 2025/07/10 v3.21 biblatex compatibility (PK/MW)
 )
 Package biblatex Info: Trying to load bibliography style 'authoryear-comp'...
 Package biblatex Info: ... file 'authoryear-comp.bbx' found.
-
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\authorye
-ar-comp.bbx
+ (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\authoryear-comp.bbx
 File: authoryear-comp.bbx 2025/07/10 v3.21 biblatex bibliography style (PK/MW)
 Package biblatex Info: Trying to load bibliography style 'authoryear'...
 Package biblatex Info: ... file 'authoryear.bbx' found.
-
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\authorye
-ar.bbx
+ (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\authoryear.bbx
 File: authoryear.bbx 2025/07/10 v3.21 biblatex bibliography style (PK/MW)
 Package biblatex Info: Trying to load bibliography style 'standard'...
 Package biblatex Info: ... file 'standard.bbx' found.
-
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\standard
-.bbx
+ (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\standard.bbx
 File: standard.bbx 2025/07/10 v3.21 biblatex bibliography style (PK/MW)
 \c@bbx:relatedcount=\count533
 \c@bbx:relatedtotal=\count534
 )))
 Package biblatex Info: Trying to load citation style 'authoryear-comp'...
 Package biblatex Info: ... file 'authoryear-comp.cbx' found.
-
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/cbx\authorye
-ar-comp.cbx
+ (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/cbx\authoryear-comp.cbx
 File: authoryear-comp.cbx 2025/07/10 v3.21 biblatex citation style (PK/MW)
 Package biblatex Info: Redefining '\cite'.
 Package biblatex Info: Redefining '\parencite'.
@@ -1384,8 +1094,7 @@ Package biblatex Info: Redefining '\smartcites'.
 )
 Package biblatex Info: Trying to load configuration file...
 Package biblatex Info: ... file 'biblatex.cfg' found.
-
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.cfg
+ (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.cfg
 File: biblatex.cfg 
 )
 Package biblatex Info: Input encoding 'utf8' detected.
@@ -1394,47 +1103,50 @@ Package biblatex Info: ... and expl3
 (biblatex)             2025-12-24 L3 programming layer (loader) 
 (biblatex)             is new enough (at least 2020/04/06),
 (biblatex)             setting 'casechanger=expl3'.
-
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-case-exp
-l3.sty
+ (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-case-expl3.sty
 Package: blx-case-expl3 2025/07/10 v3.21 expl3 case changing code for biblatex
-))
-(C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+)) (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
 Package: fontenc 2025/07/18 v2.1d Standard LaTeX package
 )
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
 Package csquotes Info: Redefining alias 'default' -> 'spanish'.
-
-(main.aux
-LaTeX Info: Redefining \. on input line 12.
-LaTeX Info: Redefining \% on input line 12.
-Package babel Info: 'spanish' activates 'spanish' shorthands.
-(babel)             Reported on input line 12.
-)
+ (main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 132.
-LaTeX Font Info:    ... okay on input line 132.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 132.
-LaTeX Font Info:    ... okay on input line 132.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 132.
-LaTeX Font Info:    ... okay on input line 132.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 132.
-LaTeX Font Info:    ... okay on input line 132.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 132.
-LaTeX Font Info:    ... okay on input line 132.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 132.
-LaTeX Font Info:    ... okay on input line 132.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 132.
-LaTeX Font Info:    ... okay on input line 132.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 132.
-LaTeX Font Info:    ... okay on input line 132.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 132.
-LaTeX Font Info:    ... okay on input line 132.
-Package hyperref Info: Link coloring ON on input line 132.
- (main.out) (main.out)
+LaTeX Font Info:    Checking defbabel)             Reported on input line 12.
+)
+Runaway argument?
+{\contentsline {figure}{\numberline {8}{ 
+! File ended while scanning use of \@writefile.
+<inserted text> 
+                \par 
+l.133 \begin{document}
+                      
+? 
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 133.
+LaTeX Font Info:    ... okay on input line 133.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 133.
+LaTeX Font Info:    ... okay on input line 133.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 133.
+LaTeX Font Info:    ... okay on input line 133.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 133.
+LaTeX Font Info:    ... okay on input line 133.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 133.
+LaTeX Font Info:    ... okay on input line 133.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 133.
+LaTeX Font Info:    ... okay on input line 133.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 133.
+LaTeX Font Info:    ... okay on input line 133.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 133.
+LaTeX Font Info:    ... okay on input line 133.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 133.
+LaTeX Font Info:    ... okay on input line 133.
+Package hyperref Info: Link coloring ON on input line 133.
+(main.out) (main.out)
 \@outlinefile=\write6
 \openout6 = `main.out'.
 
@@ -1472,7 +1184,7 @@ G,.JBIG2,.JB2,.eps]
 .cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-Package ragged2e Info: ABD: executing \RaggedRight on input line 132.
+Package ragged2e Info: ABD: executing \RaggedRight on input line 133.
 
 (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/translations/dicts\tr
 anslations-basic-dictionary-spanish.trsl
@@ -1480,7 +1192,7 @@ File: translations-basic-dictionary-spanish.trsl (spanish translation file `tra
 nslations-basic-dictionary')
 )
 Package translations Info: loading dictionary `translations-basic-dictionary' f
-or `spanish'. on input line 132.
+or `spanish'. on input line 133.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1520,8 +1232,8 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
 Package caption Info: listings package is loaded.
 Package caption Info: End \AtBeginDocument code.
-LaTeX Info: Redefining \. on input line 132.
-LaTeX Info: Redefining \% on input line 132.
+LaTeX Info: Redefining \. on input line 133.
+LaTeX Info: Redefining \% on input line 133.
 \c@lstlisting=\count541
 Package biblatex Info: Trying to load language 'spanish'...
 Package biblatex Info: ... file 'spanish.lbx' found.
@@ -1536,22 +1248,22 @@ Package biblatex Info: Automatic encoding selection.
 \openout5 = `main.bcf'.
 
 Package biblatex Info: Trying to load bibliographic data...
-Package biblatex Info: ... file 'main.bbl' not found.
-
-No file main.bbl.
-Package biblatex Info: Reference section=0 on input line 132.
-Package biblatex Info: Reference segment=0 on input line 132.
-<logo.png, id=106, 239.89626pt x 87.32625pt>
+Package biblatex Info: ... file 'main.bbl' found.
+ (main.bbl)
+Package biblatex Info: Reference section=0 on input line 133.
+Package biblatex Info: Reference segment=0 on input line 133.
+<logo.png, id=110, 239.89626pt x 87.32625pt>
 File: logo.png Graphic file (type png)
 <use logo.png>
-Package pdftex.def Info: logo.png  used on input line 133.
+Package pdftex.def Info: logo.png  used on input line 134.
 (pdftex.def)             Requested size: 199.16928pt x 72.50208pt.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 133
+LaTeX Font Info:    Trying to load font information for U+msa on input line 134
 .
+
 (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 133
+LaTeX Font Info:    Trying to load font information for U+msb on input line 134
 .
 
 (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
@@ -1568,49 +1280,49 @@ LaTeX Info: Redefining \% on input line 1.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.25 ...car_resultados.py}{35}{subsection.Alph2.4}
+l.26 ...car_resultados.py}{35}{subsection.Alph2.5}
                                                   %
 ? 
 ! Extra }, or forgotten $.
-<argument> ...erline {B.4}verificar_resultados.py}
+<argument> ...erline {B.5}verificar_resultados.py}
                                                   \Hy@toclinkend 
-l.25 ...car_resultados.py}{35}{subsection.Alph2.4}
+l.26 ...car_resultados.py}{35}{subsection.Alph2.5}
                                                   %
 ? 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.25 ...car_resultados.py}{35}{subsection.Alph2.4}
+l.26 ...car_resultados.py}{35}{subsection.Alph2.5}
                                                   %
 ? 
 ! Missing } inserted.
 <inserted text> 
                 }
-l.25 ...car_resultados.py}{35}{subsection.Alph2.4}
+l.26 ...car_resultados.py}{35}{subsection.Alph2.5}
                                                   %
 ? 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.26 ...}test_numerica.py}{38}{subsection.Alph2.5}
+l.27 ...}test_numerica.py}{38}{subsection.Alph2.6}
                                                   %
 ? 
 ! Extra }, or forgotten $.
-<argument> ... {\numberline {B.5}test_numerica.py}
+<argument> ... {\numberline {B.6}test_numerica.py}
                                                   \Hy@toclinkend 
-l.26 ...}test_numerica.py}{38}{subsection.Alph2.5}
+l.27 ...}test_numerica.py}{38}{subsection.Alph2.6}
                                                   %
 ? 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.26 ...}test_numerica.py}{38}{subsection.Alph2.5}
+l.27 ...}test_numerica.py}{38}{subsection.Alph2.6}
                                                   %
 ? 
 ! Missing } inserted.
 <inserted text> 
                 }
-l.26 ...}test_numerica.py}{38}{subsection.Alph2.5}
+l.27 ...}test_numerica.py}{38}{subsection.Alph2.6}
                                                   %
 ? 
 )
@@ -1619,7 +1331,7 @@ l.26 ...}test_numerica.py}{38}{subsection.Alph2.5}
 
 File: logo.png Graphic file (type png)
 <use logo.png>
-Package pdftex.def Info: logo.png  used on input line 139.
+Package pdftex.def Info: logo.png  used on input line 140.
 (pdftex.def)             Requested size: 71.13188pt x 25.89293pt.
 
 
@@ -1628,11 +1340,14 @@ Package fancyhdr Warning: \headheight is too small (27.0pt):
 (fancyhdr)                \setlength{\headheight}{29.49297pt}.
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49297pt}.
+
+
+LaTeX Warning: Reference `LastPage' on page 2 undefined on input line 140.
 
 [2] (text/consideraciones.tex)
 File: logo.png Graphic file (type png)
 <use logo.png>
-Package pdftex.def Info: logo.png  used on input line 142.
+Package pdftex.def Info: logo.png  used on input line 143.
 (pdftex.def)             Requested size: 71.13188pt x 25.89293pt.
 
 
@@ -1641,6 +1356,9 @@ Package fancyhdr Warning: \headheight is too small (27.0pt):
 (fancyhdr)                \setlength{\headheight}{29.49297pt}.
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49297pt}.
+
+
+LaTeX Warning: Reference `LastPage' on page 3 undefined on input line 143.
 
 [3] (text/modelacion.tex
 File: logo.png Graphic file (type png)
@@ -1655,6 +1373,9 @@ Package fancyhdr Warning: \headheight is too small (27.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49297pt}.
 
+
+LaTeX Warning: Reference `LastPage' on page 4 undefined on input line 117.
+
 [4]
 File: logo.png Graphic file (type png)
 <use logo.png>
@@ -1667,6 +1388,9 @@ Package fancyhdr Warning: \headheight is too small (27.0pt):
 (fancyhdr)                \setlength{\headheight}{29.49297pt}.
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49297pt}.
+
+
+LaTeX Warning: Reference `LastPage' on page 5 undefined on input line 133.
 
 [5]
 File: logo.png Graphic file (type png)
@@ -1681,6 +1405,9 @@ Package fancyhdr Warning: \headheight is too small (27.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49297pt}.
 
+
+LaTeX Warning: Reference `LastPage' on page 6 undefined on input line 226.
+
 [6]
 Overfull \hbox (8.73254pt too wide) in paragraph at lines 273--281
 []\T1/cmr/m/n/10 Por ejem-plo, al du-pli-car el me-nor pa-so de la Cua-dro [][]
@@ -1688,7 +1415,7 @@ Overfull \hbox (8.73254pt too wide) in paragraph at lines 273--281
 mr/m/n/10 0[]02148585 [][]C$\T1/cmr/m/n/10 ,
  []
 
-<img/01_convergencia.png, id=256, 451.6875pt x 283.0575pt>
+<img/01_convergencia.png, id=262, 451.6875pt x 283.0575pt>
 File: img/01_convergencia.png Graphic file (type png)
 <use img/01_convergencia.png>
 Package pdftex.def Info: img/01_convergencia.png  used on input line 285.
@@ -1704,8 +1431,11 @@ Package fancyhdr Warning: \headheight is too small (27.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49297pt}.
 
+
+LaTeX Warning: Reference `LastPage' on page 7 undefined on input line 290.
+
 [7]
-<img/02_estabilidad.png, id=267, 708.246pt x 283.459pt>
+<img/02_estabilidad.png, id=273, 708.246pt x 283.459pt>
 File: img/02_estabilidad.png Graphic file (type png)
 <use img/02_estabilidad.png>
 Package pdftex.def Info: img/02_estabilidad.png  used on input line 306.
@@ -1722,8 +1452,11 @@ Package fancyhdr Warning: \headheight is too small (27.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49297pt}.
 
+
+LaTeX Warning: Reference `LastPage' on page 8 undefined on input line 319.
+
 [8 <./img/01_convergencia.png> <./img/02_estabilidad.png>]
-<img/08_estabilidad_detalle.png, id=277, 510.3065pt x 311.1625pt>
+<img/08_estabilidad_detalle.png, id=283, 510.3065pt x 311.1625pt>
 File: img/08_estabilidad_detalle.png Graphic file (type png)
 <use img/08_estabilidad_detalle.png>
 Package pdftex.def Info: img/08_estabilidad_detalle.png  used on input line 322
@@ -1741,8 +1474,11 @@ Package fancyhdr Warning: \headheight is too small (27.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49297pt}.
 
+
+LaTeX Warning: Reference `LastPage' on page 9 undefined on input line 348.
+
 [9 <./img/08_estabilidad_detalle.png>]
-<img/03_nominal_60_meses.png, id=286, 652.036pt x 569.7285pt>
+<img/03_nominal_60_meses.png, id=292, 652.036pt x 569.7285pt>
 File: img/03_nominal_60_meses.png Graphic file (type png)
 <use img/03_nominal_60_meses.png>
 Package pdftex.def Info: img/03_nominal_60_meses.png  used on input line 416.
@@ -1759,8 +1495,11 @@ Package fancyhdr Warning: \headheight is too small (27.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49297pt}.
 
+
+LaTeX Warning: Reference `LastPage' on page 10 undefined on input line 421.
+
 [10]
-<img/04_nominal_ultimo_ciclo.png, id=296, 642.8015pt x 569.7285pt>
+<img/04_nominal_ultimo_ciclo.png, id=302, 642.8015pt x 569.7285pt>
 File: img/04_nominal_ultimo_ciclo.png Graphic file (type png)
 <use img/04_nominal_ultimo_ciclo.png>
 Package pdftex.def Info: img/04_nominal_ultimo_ciclo.png  used on input line 42
@@ -1778,6 +1517,9 @@ Package fancyhdr Warning: \headheight is too small (27.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49297pt}.
 
+
+LaTeX Warning: Reference `LastPage' on page 11 undefined on input line 430.
+
 [11 <./img/03_nominal_60_meses.png>]
 File: logo.png Graphic file (type png)
 <use logo.png>
@@ -1791,8 +1533,11 @@ Package fancyhdr Warning: \headheight is too small (27.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49297pt}.
 
+
+LaTeX Warning: Reference `LastPage' on page 12 undefined on input line 465.
+
 [12 <./img/04_nominal_ultimo_ciclo.png>]
-<img/05_sensibilidad.png, id=310, 778.91pt x 923.8515pt>
+<img/05_sensibilidad.png, id=316, 778.91pt x 923.8515pt>
 File: img/05_sensibilidad.png Graphic file (type png)
 <use img/05_sensibilidad.png>
 Package pdftex.def Info: img/05_sensibilidad.png  used on input line 472.
@@ -1809,6 +1554,9 @@ Package fancyhdr Warning: \headheight is too small (27.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49297pt}.
 
+
+LaTeX Warning: Reference `LastPage' on page 13 undefined on input line 477.
+
 [13]
 File: logo.png Graphic file (type png)
 <use logo.png>
@@ -1822,12 +1570,15 @@ Package fancyhdr Warning: \headheight is too small (27.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49297pt}.
 
+
+LaTeX Warning: Reference `LastPage' on page 14 undefined on input line 488.
+
 [14 <./img/05_sensibilidad.png>]
 Overfull \hbox (38.62932pt too wide) in paragraph at lines 503--520
  [][] 
  []
 
-<img/06_comparacion_60_meses.png, id=322, 636.3775pt x 569.7285pt>
+<img/06_comparacion_60_meses.png, id=328, 636.3775pt x 569.7285pt>
 File: img/06_comparacion_60_meses.png Graphic file (type png)
 <use img/06_comparacion_60_meses.png>
 Package pdftex.def Info: img/06_comparacion_60_meses.png  used on input line 53
@@ -1844,8 +1595,11 @@ Package fancyhdr Warning: \headheight is too small (27.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49297pt}.
 
+
+LaTeX Warning: Reference `LastPage' on page 15 undefined on input line 543.
+
 [15]
-<img/07_comparacion_ultimo_ciclo.png, id=328, 642.8015pt x 569.7285pt>
+<img/07_comparacion_ultimo_ciclo.png, id=334, 642.8015pt x 569.7285pt>
 File: img/07_comparacion_ultimo_ciclo.png Graphic file (type png)
 <use img/07_comparacion_ultimo_ciclo.png>
 Package pdftex.def Info: img/07_comparacion_ultimo_ciclo.png  used on input lin
@@ -1863,8 +1617,11 @@ Package fancyhdr Warning: \headheight is too small (27.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49297pt}.
 
+
+LaTeX Warning: Reference `LastPage' on page 16 undefined on input line 551.
+
 [16 <./img/06_comparacion_60_meses.png>]
-<img/09_busqueda_conjunta.png, id=335, 778.91pt x 307.549pt>
+<img/09_busqueda_conjunta.png, id=341, 778.91pt x 307.549pt>
 File: img/09_busqueda_conjunta.png Graphic file (type png)
 <use img/09_busqueda_conjunta.png>
 Package pdftex.def Info: img/09_busqueda_conjunta.png  used on input line 554.
@@ -1881,10 +1638,13 @@ Package fancyhdr Warning: \headheight is too small (27.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49297pt}.
 
+
+LaTeX Warning: Reference `LastPage' on page 17 undefined on input line 567.
+
 [17 <./img/07_comparacion_ultimo_ciclo.png> <./img/09_busqueda_conjunta.png>])
 File: logo.png Graphic file (type png)
 <use logo.png>
-Package pdftex.def Info: logo.png  used on input line 145.
+Package pdftex.def Info: logo.png  used on input line 146.
 (pdftex.def)             Requested size: 71.13188pt x 25.89293pt.
 
 
@@ -1893,6 +1653,9 @@ Package fancyhdr Warning: \headheight is too small (27.0pt):
 (fancyhdr)                \setlength{\headheight}{29.49297pt}.
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49297pt}.
+
+
+LaTeX Warning: Reference `LastPage' on page 18 undefined on input line 146.
 
 [18] (text/conclusiones.tex
 ! Incompatible glue units.
@@ -1912,7 +1675,7 @@ Overfull \hbox (17.63754pt too wide) in paragraph at lines 35--38
 )
 File: logo.png Graphic file (type png)
 <use logo.png>
-Package pdftex.def Info: logo.png  used on input line 147.
+Package pdftex.def Info: logo.png  used on input line 148.
 (pdftex.def)             Requested size: 71.13188pt x 25.89293pt.
 
 
@@ -1921,13 +1684,16 @@ Package fancyhdr Warning: \headheight is too small (27.0pt):
 (fancyhdr)                \setlength{\headheight}{29.49297pt}.
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49297pt}.
+
+
+LaTeX Warning: Reference `LastPage' on page 19 undefined on input line 148.
 
 [19] (text/anexo.tex) (text/codigo.tex
 (C:\Users\Facundo\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang1.sty
 File: lstlang1.sty 2025/11/14 1.11b listings language file
 )
 Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
-nput line 5.
+nput line 15.
 
 
 ! LaTeX Error: Invalid UTF-8 byte sequence (�\lst@FillFixed@).
@@ -1936,7 +1702,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.36 ...sa intrínseca de calentamiento [mes⁻¹]
+l.46 ...sa intrínseca de calentamiento [mes⁻¹]
                                                   .
 ? 
 
@@ -1946,7 +1712,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.36 ...sa intrínseca de calentamiento [mes⁻¹]
+l.46 ...sa intrínseca de calentamiento [mes⁻¹]
                                                   .
 ? 
 
@@ -1956,7 +1722,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.37 ...friamiento por evaporación [°C mes⁻¹ 
+l.47 ...friamiento por evaporación [°C mes⁻¹ 
                                                   u.h.⁻¹].
 ? 
 
@@ -1966,7 +1732,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.37 ...friamiento por evaporación [°C mes⁻¹ 
+l.47 ...friamiento por evaporación [°C mes⁻¹ 
                                                   u.h.⁻¹].
 ? 
 
@@ -1976,7 +1742,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.37 ... por evaporación [°C mes⁻¹ u.h.⁻¹]
+l.47 ... por evaporación [°C mes⁻¹ u.h.⁻¹]
                                                   .
 ? 
 
@@ -1986,7 +1752,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.37 ... por evaporación [°C mes⁻¹ u.h.⁻¹]
+l.47 ... por evaporación [°C mes⁻¹ u.h.⁻¹]
                                                   .
 ? 
 
@@ -1996,7 +1762,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.38 ...eficiencia de evaporación [u.h. mes⁻¹ 
+l.48 ...eficiencia de evaporación [u.h. mes⁻¹ 
                                                   °C⁻²].
 ? 
 
@@ -2006,7 +1772,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.38 ...eficiencia de evaporación [u.h. mes⁻¹ 
+l.48 ...eficiencia de evaporación [u.h. mes⁻¹ 
                                                   °C⁻²].
 ? 
 
@@ -2016,7 +1782,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.38 ...a de evaporación [u.h. mes⁻¹ °C⁻²]
+l.48 ...a de evaporación [u.h. mes⁻¹ °C⁻²]
                                                   .
 ? 
 
@@ -2026,7 +1792,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.38 ...a de evaporación [u.h. mes⁻¹ °C⁻²]
+l.48 ...a de evaporación [u.h. mes⁻¹ °C⁻²]
                                                   .
 ? 
 
@@ -2036,7 +1802,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.39 ...o de humedad por precipitación [mes⁻¹ 
+l.49 ...o de humedad por precipitación [mes⁻¹ 
                                                   u.p.⁻¹].
 ? 
 
@@ -2046,7 +1812,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.39 ...o de humedad por precipitación [mes⁻¹ 
+l.49 ...o de humedad por precipitación [mes⁻¹ 
                                                   u.p.⁻¹].
 ? 
 
@@ -2056,7 +1822,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.39 ...ad por precipitación [mes⁻¹ u.p.⁻¹]
+l.49 ...ad por precipitación [mes⁻¹ u.p.⁻¹]
                                                   .
 ? 
 
@@ -2066,92 +1832,12 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.39 ...ad por precipitación [mes⁻¹ u.p.⁻¹]
+l.49 ...ad por precipitación [mes⁻¹ u.p.⁻¹]
                                                   .
-? 
-
-! LaTeX Error: Invalid UTF-8 byte sequence (�\lst@FillFixed@).
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.40 ...rsión de humedad a lluvia [u.p. mes⁻¹ 
-                                                  u.h.⁻²].
-? 
-
-! LaTeX Error: Invalid UTF-8 byte "B9.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.40 ...rsión de humedad a lluvia [u.p. mes⁻¹ 
-                                                  u.h.⁻²].
-? 
-
-! LaTeX Error: Invalid UTF-8 byte sequence (�\lst@FillFixed@).
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.40 ...humedad a lluvia [u.p. mes⁻¹ u.h.⁻²]
-                                                  .
-? 
-
-! LaTeX Error: Invalid UTF-8 byte "B2.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.40 ...humedad a lluvia [u.p. mes⁻¹ u.h.⁻²]
-                                                  .
-? 
-
-! LaTeX Error: Invalid UTF-8 byte sequence (�\lst@FillFixed@).
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.41 ...: disipación de precipitación [mes⁻¹]
-                                                  .
-? 
-
-! LaTeX Error: Invalid UTF-8 byte "B9.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.41 ...: disipación de precipitación [mes⁻¹]
-                                                  .
-? 
-
-! LaTeX Error: Invalid UTF-8 byte sequence (�\lst@FillFixed@).
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.42     A: amplitud estacional [mes⁻¹]
-                                          .
-? 
-
-! LaTeX Error: Invalid UTF-8 byte "B9.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.42     A: amplitud estacional [mes⁻¹]
-                                          .
 ? 
 File: logo.png Graphic file (type png)
 <use logo.png>
-Package pdftex.def Info: logo.png  used on input line 49.
+Package pdftex.def Info: logo.png  used on input line 50.
 (pdftex.def)             Requested size: 71.13188pt x 25.89293pt.
 
 Package fancyhdr Warning: \headheight is too small (27.0pt): 
@@ -2159,24 +1845,109 @@ Package fancyhdr Warning: \headheight is too small (27.0pt):
 (fancyhdr)                \setlength{\headheight}{29.49297pt}.
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49297pt}.
+
+
+LaTeX Warning: Reference `LastPage' on page 20 undefined on input line 50.
 
 [20]
+
+! LaTeX Error: Invalid UTF-8 byte sequence (�\lst@FillFixed@).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.50 ...rsión de humedad a lluvia [u.p. mes⁻¹ 
+                                                  u.h.⁻²].
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "B9.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.50 ...rsión de humedad a lluvia [u.p. mes⁻¹ 
+                                                  u.h.⁻²].
+? 
+
+! LaTeX Error: Invalid UTF-8 byte sequence (�\lst@FillFixed@).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.50 ...humedad a lluvia [u.p. mes⁻¹ u.h.⁻²]
+                                                  .
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "B2.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.50 ...humedad a lluvia [u.p. mes⁻¹ u.h.⁻²]
+                                                  .
+? 
+
+! LaTeX Error: Invalid UTF-8 byte sequence (�\lst@FillFixed@).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.51 ...: disipación de precipitación [mes⁻¹]
+                                                  .
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "B9.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.51 ...: disipación de precipitación [mes⁻¹]
+                                                  .
+? 
+
+! LaTeX Error: Invalid UTF-8 byte sequence (�\lst@FillFixed@).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.52     A: amplitud estacional [mes⁻¹]
+                                          .
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "B9.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.52     A: amplitud estacional [mes⁻¹]
+                                          .
+? 
 File: logo.png Graphic file (type png)
 <use logo.png>
-Package pdftex.def Info: logo.png  used on input line 117.
+Package pdftex.def Info: logo.png  used on input line 118.
 (pdftex.def)             Requested size: 71.13188pt x 25.89293pt.
-
 
 Package fancyhdr Warning: \headheight is too small (27.0pt): 
 (fancyhdr)                Make it at least 29.49297pt, for example:
 (fancyhdr)                \setlength{\headheight}{29.49297pt}.
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49297pt}.
+
+
+LaTeX Warning: Reference `LastPage' on page 21 undefined on input line 118.
 
 [21]
 File: logo.png Graphic file (type png)
 <use logo.png>
-Package pdftex.def Info: logo.png  used on input line 184.
+Package pdftex.def Info: logo.png  used on input line 186.
 (pdftex.def)             Requested size: 71.13188pt x 25.89293pt.
 
 
@@ -2185,11 +1956,14 @@ Package fancyhdr Warning: \headheight is too small (27.0pt):
 (fancyhdr)                \setlength{\headheight}{29.49297pt}.
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49297pt}.
+
+
+LaTeX Warning: Reference `LastPage' on page 22 undefined on input line 186.
 
 [22]
 File: logo.png Graphic file (type png)
 <use logo.png>
-Package pdftex.def Info: logo.png  used on input line 253.
+Package pdftex.def Info: logo.png  used on input line 254.
 (pdftex.def)             Requested size: 71.13188pt x 25.89293pt.
 
 
@@ -2198,6 +1972,9 @@ Package fancyhdr Warning: \headheight is too small (27.0pt):
 (fancyhdr)                \setlength{\headheight}{29.49297pt}.
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49297pt}.
+
+
+LaTeX Warning: Reference `LastPage' on page 23 undefined on input line 254.
 
 [23]
 File: logo.png Graphic file (type png)
@@ -2212,6 +1989,9 @@ Package fancyhdr Warning: \headheight is too small (27.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49297pt}.
 
+
+LaTeX Warning: Reference `LastPage' on page 24 undefined on input line 317.
+
 [24]
 
 ! LaTeX Error: Invalid UTF-8 byte sequence (�\lst@FillFixed@).
@@ -2220,7 +2000,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.350     "A": "A [mes⁻¹]
+l.360     "A": "A [mes⁻¹]
                             ", "beta": "β [u.h. mes⁻¹ °C⁻²]",
 ? 
 
@@ -2230,7 +2010,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.350     "A": "A [mes⁻¹]
+l.360     "A": "A [mes⁻¹]
                             ", "beta": "β [u.h. mes⁻¹ °C⁻²]",
 ? 
 
@@ -2240,7 +2020,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.350     "A": "A [mes⁻¹]", "beta": "β 
+l.360     "A": "A [mes⁻¹]", "beta": "β 
                                            [u.h. mes⁻¹ °C⁻²]",
 ? 
 
@@ -2250,7 +2030,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.350     "A": "A [mes⁻¹]", "beta": "β 
+l.360     "A": "A [mes⁻¹]", "beta": "β 
                                            [u.h. mes⁻¹ °C⁻²]",
 ? 
 
@@ -2260,7 +2040,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.350 ... [mes⁻¹]", "beta": "β [u.h. mes⁻¹ 
+l.360 ... [mes⁻¹]", "beta": "β [u.h. mes⁻¹ 
                                                   °C⁻²]",
 ? 
 
@@ -2270,7 +2050,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.350 ... [mes⁻¹]", "beta": "β [u.h. mes⁻¹ 
+l.360 ... [mes⁻¹]", "beta": "β [u.h. mes⁻¹ 
                                                   °C⁻²]",
 ? 
 
@@ -2280,7 +2060,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.350 ...�]", "beta": "β [u.h. mes⁻¹ °C⁻²]
+l.360 ...�]", "beta": "β [u.h. mes⁻¹ °C⁻²]
                                                   ",
 ? 
 
@@ -2290,7 +2070,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.350 ...�]", "beta": "β [u.h. mes⁻¹ °C⁻²]
+l.360 ...�]", "beta": "β [u.h. mes⁻¹ °C⁻²]
                                                   ",
 ? 
 
@@ -2300,7 +2080,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.351     "gamma": "γ 
+l.361     "gamma": "γ 
                        [mes⁻¹ u.p.⁻¹]", "sigma": "σ [mes⁻¹]",
 ? 
 
@@ -2310,7 +2090,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.351     "gamma": "γ 
+l.361     "gamma": "γ 
                        [mes⁻¹ u.p.⁻¹]", "sigma": "σ [mes⁻¹]",
 ? 
 
@@ -2320,7 +2100,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.351     "gamma": "γ [mes⁻¹ 
+l.361     "gamma": "γ [mes⁻¹ 
                                  u.p.⁻¹]", "sigma": "σ [mes⁻¹]",
 ? 
 
@@ -2330,7 +2110,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.351     "gamma": "γ [mes⁻¹ 
+l.361     "gamma": "γ [mes⁻¹ 
                                  u.p.⁻¹]", "sigma": "σ [mes⁻¹]",
 ? 
 
@@ -2340,7 +2120,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.351     "gamma": "γ [mes⁻¹ u.p.⁻¹]
+l.361     "gamma": "γ [mes⁻¹ u.p.⁻¹]
                                            ", "sigma": "σ [mes⁻¹]",
 ? 
 
@@ -2350,7 +2130,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.351     "gamma": "γ [mes⁻¹ u.p.⁻¹]
+l.361     "gamma": "γ [mes⁻¹ u.p.⁻¹]
                                            ", "sigma": "σ [mes⁻¹]",
 ? 
 
@@ -2360,7 +2140,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.351 ... "γ [mes⁻¹ u.p.⁻¹]", "sigma": "σ 
+l.361 ... "γ [mes⁻¹ u.p.⁻¹]", "sigma": "σ 
                                                   [mes⁻¹]",
 ? 
 
@@ -2370,7 +2150,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.351 ... "γ [mes⁻¹ u.p.⁻¹]", "sigma": "σ 
+l.361 ... "γ [mes⁻¹ u.p.⁻¹]", "sigma": "σ 
                                                   [mes⁻¹]",
 ? 
 
@@ -2380,7 +2160,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.351 ...��¹ u.p.⁻¹]", "sigma": "σ [mes⁻¹]
+l.361 ...��¹ u.p.⁻¹]", "sigma": "σ [mes⁻¹]
                                                   ",
 ? 
 
@@ -2390,12 +2170,12 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.351 ...��¹ u.p.⁻¹]", "sigma": "σ [mes⁻¹]
+l.361 ...��¹ u.p.⁻¹]", "sigma": "σ [mes⁻¹]
                                                   ",
 ? 
 File: logo.png Graphic file (type png)
 <use logo.png>
-Package pdftex.def Info: logo.png  used on input line 381.
+Package pdftex.def Info: logo.png  used on input line 383.
 (pdftex.def)             Requested size: 71.13188pt x 25.89293pt.
 
 Package fancyhdr Warning: \headheight is too small (27.0pt): 
@@ -2403,11 +2183,14 @@ Package fancyhdr Warning: \headheight is too small (27.0pt):
 (fancyhdr)                \setlength{\headheight}{29.49297pt}.
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49297pt}.
+
+
+LaTeX Warning: Reference `LastPage' on page 25 undefined on input line 383.
 
 [25]
 File: logo.png Graphic file (type png)
 <use logo.png>
-Package pdftex.def Info: logo.png  used on input line 445.
+Package pdftex.def Info: logo.png  used on input line 446.
 (pdftex.def)             Requested size: 71.13188pt x 25.89293pt.
 
 
@@ -2416,11 +2199,14 @@ Package fancyhdr Warning: \headheight is too small (27.0pt):
 (fancyhdr)                \setlength{\headheight}{29.49297pt}.
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49297pt}.
+
+
+LaTeX Warning: Reference `LastPage' on page 26 undefined on input line 446.
 
 [26]
 File: logo.png Graphic file (type png)
 <use logo.png>
-Package pdftex.def Info: logo.png  used on input line 505.
+Package pdftex.def Info: logo.png  used on input line 506.
 (pdftex.def)             Requested size: 71.13188pt x 25.89293pt.
 
 
@@ -2429,6 +2215,9 @@ Package fancyhdr Warning: \headheight is too small (27.0pt):
 (fancyhdr)                \setlength{\headheight}{29.49297pt}.
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49297pt}.
+
+
+LaTeX Warning: Reference `LastPage' on page 27 undefined on input line 506.
 
 [27]
 
@@ -2438,7 +2227,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.537 ...es[1], sp[:, :, 0, -1], "A", "beta", "γ 
+l.547 ...es[1], sp[:, :, 0, -1], "A", "beta", "γ 
                                                   mínimo; σ máximo"),
 ? 
 
@@ -2448,7 +2237,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.537 ...es[1], sp[:, :, 0, -1], "A", "beta", "γ 
+l.547 ...es[1], sp[:, :, 0, -1], "A", "beta", "γ 
                                                   mínimo; σ máximo"),
 ? 
 
@@ -2458,7 +2247,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.537 ... :, 0, -1], "A", "beta", "γ mínimo; σ 
+l.547 ... :, 0, -1], "A", "beta", "γ mínimo; σ 
                                                   máximo"),
 ? 
 
@@ -2468,7 +2257,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.537 ... :, 0, -1], "A", "beta", "γ mínimo; σ 
+l.547 ... :, 0, -1], "A", "beta", "γ mínimo; σ 
                                                   máximo"),
 ? 
 
@@ -2478,7 +2267,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.538 ...-1, -1, :, :], "gamma", "sigma", "A y β 
+l.548 ...-1, -1, :, :], "gamma", "sigma", "A y β 
                                                   máximos"),
 ? 
 
@@ -2488,7 +2277,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.538 ...-1, -1, :, :], "gamma", "sigma", "A y β 
+l.548 ...-1, -1, :, :], "gamma", "sigma", "A y β 
                                                   máximos"),
 ? 
 
@@ -2498,7 +2287,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.544 ...unta: cortes de la grilla global de 9⁴ 
+l.554 ...unta: cortes de la grilla global de 9⁴ 
                                                   escenarios")
 ? 
 
@@ -2508,12 +2297,12 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.544 ...unta: cortes de la grilla global de 9⁴ 
+l.554 ...unta: cortes de la grilla global de 9⁴ 
                                                   escenarios")
 ? 
 File: logo.png Graphic file (type png)
 <use logo.png>
-Package pdftex.def Info: logo.png  used on input line 566.
+Package pdftex.def Info: logo.png  used on input line 567.
 (pdftex.def)             Requested size: 71.13188pt x 25.89293pt.
 
 Package fancyhdr Warning: \headheight is too small (27.0pt): 
@@ -2521,6 +2310,9 @@ Package fancyhdr Warning: \headheight is too small (27.0pt):
 (fancyhdr)                \setlength{\headheight}{29.49297pt}.
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49297pt}.
+
+
+LaTeX Warning: Reference `LastPage' on page 28 undefined on input line 567.
 
 [28]
 
@@ -2530,7 +2322,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.602 ...int("Parte 2: refinamiento global a 9⁴ 
+l.612 ...int("Parte 2: refinamiento global a 9⁴ 
                                                   combinaciones...", flush=T...
 
 ? 
@@ -2541,13 +2333,13 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.602 ...int("Parte 2: refinamiento global a 9⁴ 
+l.612 ...int("Parte 2: refinamiento global a 9⁴ 
                                                   combinaciones...", flush=T...
 
 ? 
 File: logo.png Graphic file (type png)
 <use logo.png>
-Package pdftex.def Info: logo.png  used on input line 624.
+Package pdftex.def Info: logo.png  used on input line 626.
 (pdftex.def)             Requested size: 71.13188pt x 25.89293pt.
 
 Package fancyhdr Warning: \headheight is too small (27.0pt): 
@@ -2555,11 +2347,14 @@ Package fancyhdr Warning: \headheight is too small (27.0pt):
 (fancyhdr)                \setlength{\headheight}{29.49297pt}.
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49297pt}.
+
+
+LaTeX Warning: Reference `LastPage' on page 29 undefined on input line 626.
 
 [29]
 File: logo.png Graphic file (type png)
 <use logo.png>
-Package pdftex.def Info: logo.png  used on input line 683.
+Package pdftex.def Info: logo.png  used on input line 684.
 (pdftex.def)             Requested size: 71.13188pt x 25.89293pt.
 
 
@@ -2568,11 +2363,14 @@ Package fancyhdr Warning: \headheight is too small (27.0pt):
 (fancyhdr)                \setlength{\headheight}{29.49297pt}.
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49297pt}.
+
+
+LaTeX Warning: Reference `LastPage' on page 30 undefined on input line 684.
 
 [30]
 File: logo.png Graphic file (type png)
 <use logo.png>
-Package pdftex.def Info: logo.png  used on input line 739.
+Package pdftex.def Info: logo.png  used on input line 741.
 (pdftex.def)             Requested size: 71.13188pt x 25.89293pt.
 
 
@@ -2581,6 +2379,9 @@ Package fancyhdr Warning: \headheight is too small (27.0pt):
 (fancyhdr)                \setlength{\headheight}{29.49297pt}.
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49297pt}.
+
+
+LaTeX Warning: Reference `LastPage' on page 31 undefined on input line 741.
 
 [31]
 
@@ -2590,7 +2391,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.752               "H' = beta*T² 
+l.762               "H' = beta*T² 
                                    - gamma*H*P", "P' = delta*H² - sigma*P",
 ? 
 
@@ -2600,7 +2401,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.752               "H' = beta*T² 
+l.762               "H' = beta*T² 
                                    - gamma*H*P", "P' = delta*H² - sigma*P",
 ? 
 
@@ -2610,7 +2411,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.752 ...= beta*T² - gamma*H*P", "P' = delta*H² 
+l.762 ...= beta*T² - gamma*H*P", "P' = delta*H² 
                                                   - sigma*P",
 ? 
 
@@ -2620,7 +2421,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.752 ...= beta*T² - gamma*H*P", "P' = delta*H² 
+l.762 ...= beta*T² - gamma*H*P", "P' = delta*H² 
                                                   - sigma*P",
 ? 
 
@@ -2630,7 +2431,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.766 ...f}" if np.isfinite(f["orden"]) else "—"
+l.776 ...f}" if np.isfinite(f["orden"]) else "—"
                                                   
 ? 
 
@@ -2640,9 +2441,24 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.766 ...f}" if np.isfinite(f["orden"]) else "—"
+l.776 ...f}" if np.isfinite(f["orden"]) else "—"
                                                   
 ? 
+File: logo.png Graphic file (type png)
+<use logo.png>
+Package pdftex.def Info: logo.png  used on input line 783.
+(pdftex.def)             Requested size: 71.13188pt x 25.89293pt.
+
+Package fancyhdr Warning: \headheight is too small (27.0pt): 
+(fancyhdr)                Make it at least 29.49297pt, for example:
+(fancyhdr)                \setlength{\headheight}{29.49297pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49297pt}.
+
+
+LaTeX Warning: Reference `LastPage' on page 32 undefined on input line 783.
+
+[32]
 
 ! LaTeX Error: Invalid UTF-8 byte sequence (�\lst@FillFixed@\lst@EC�).
 
@@ -2650,7 +2466,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.774 ...ién se linealiza localmente: e[n+1] ≈ 
+l.784 ...ién se linealiza localmente: e[n+1] ≈ 
                                                   (I+h*J)e[n], con J=df/dy. ...
 
 ? 
@@ -2661,7 +2477,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.774 ...ién se linealiza localmente: e[n+1] ≈ 
+l.784 ...ién se linealiza localmente: e[n+1] ≈ 
                                                   (I+h*J)e[n], con J=df/dy. ...
 
 ? 
@@ -2672,7 +2488,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.774 ... lambda, Euler requiere |1+h*lambda|≤1 
+l.784 ... lambda, Euler requiere |1+h*lambda|≤1 
                                                   en el problema lineal cong...
 
 ? 
@@ -2683,7 +2499,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.774 ... lambda, Euler requiere |1+h*lambda|≤1 
+l.784 ... lambda, Euler requiere |1+h*lambda|≤1 
                                                   en el problema lineal cong...
 
 ? 
@@ -2694,7 +2510,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.774 ... problema lineal congelado; esto da h≤-
+l.784 ... problema lineal congelado; esto da h≤-
                                                   2*Re(lambda)/|lambda|².",
 ? 
 
@@ -2704,7 +2520,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.774 ... problema lineal congelado; esto da h≤-
+l.784 ... problema lineal congelado; esto da h≤-
                                                   2*Re(lambda)/|lambda|².",
 ? 
 
@@ -2714,7 +2530,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.774 ... problema lineal congelado; esto da h≤-
+l.784 ... problema lineal congelado; esto da h≤-
                                                   2*Re(lambda)/|lambda|².",
 ? 
 
@@ -2724,7 +2540,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.774 ...do; esto da h≤-2*Re(lambda)/|lambda|².
+l.784 ...do; esto da h≤-2*Re(lambda)/|lambda|².
                                                   ",
 ? 
 
@@ -2734,21 +2550,9 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.774 ...do; esto da h≤-2*Re(lambda)/|lambda|².
+l.784 ...do; esto da h≤-2*Re(lambda)/|lambda|².
                                                   ",
 ? 
-File: logo.png Graphic file (type png)
-<use logo.png>
-Package pdftex.def Info: logo.png  used on input line 775.
-(pdftex.def)             Requested size: 71.13188pt x 25.89293pt.
-
-Package fancyhdr Warning: \headheight is too small (27.0pt): 
-(fancyhdr)                Make it at least 29.49297pt, for example:
-(fancyhdr)                \setlength{\headheight}{29.49297pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-2.49297pt}.
-
-[32]
 
 ! LaTeX Error: Invalid UTF-8 byte sequence (�\lst@FillFixed@\lst@EC�).
 
@@ -2756,7 +2560,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.790 ... Parámetro | SP en extremo inferior → 
+l.800 ... Parámetro | SP en extremo inferior → 
                                                   superior | Desfase inferio...
 
 ? 
@@ -2767,7 +2571,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.790 ... Parámetro | SP en extremo inferior → 
+l.800 ... Parámetro | SP en extremo inferior → 
                                                   superior | Desfase inferio...
 
 ? 
@@ -2778,7 +2582,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.790 ...rior → superior | Desfase inferior → 
+l.800 ...rior → superior | Desfase inferior → 
                                                   superior [meses] |",
 ? 
 
@@ -2788,7 +2592,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.790 ...rior → superior | Desfase inferior → 
+l.800 ...rior → superior | Desfase inferior → 
                                                   superior [meses] |",
 ? 
 
@@ -2798,7 +2602,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.794 ...s.append(f"| {n} | {fs[0]['SP']:.6g} → 
+l.804 ...s.append(f"| {n} | {fs[0]['SP']:.6g} → 
                                                   {fs[-1]['SP']:.6g} | {fs[0...
 
 ? 
@@ -2809,7 +2613,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.794 ...s.append(f"| {n} | {fs[0]['SP']:.6g} → 
+l.804 ...s.append(f"| {n} | {fs[0]['SP']:.6g} → 
                                                   {fs[-1]['SP']:.6g} | {fs[0...
 
 ? 
@@ -2820,7 +2624,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.794 ...['SP']:.6g} | {fs[0]['desfase']:.6g} → 
+l.804 ...['SP']:.6g} | {fs[0]['desfase']:.6g} → 
                                                   {fs[-1]['desfase']:.6g} |")
 ? 
 
@@ -2830,7 +2634,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.794 ...['SP']:.6g} | {fs[0]['desfase']:.6g} → 
+l.804 ...['SP']:.6g} | {fs[0]['desfase']:.6g} → 
                                                   {fs[-1]['desfase']:.6g} |")
 ? 
 
@@ -2840,7 +2644,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.797 ...** aumenta la fuente de humedad beta*T².
+l.807 ...** aumenta la fuente de humedad beta*T².
                                                    En este rango aumenta SP ...
 
 ? 
@@ -2851,35 +2655,13 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.797 ...** aumenta la fuente de humedad beta*T².
+l.807 ...** aumenta la fuente de humedad beta*T².
                                                    En este rango aumenta SP ...
-
-? 
-
-! LaTeX Error: Invalid UTF-8 byte sequence (�\expandafter).
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.798 ...edad disponible para la fuente delta*H².
-                                                   Se observa una menor seve...
-
-? 
-
-! LaTeX Error: Invalid UTF-8 byte "B2.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.798 ...edad disponible para la fuente delta*H².
-                                                   Se observa una menor seve...
 
 ? 
 File: logo.png Graphic file (type png)
 <use logo.png>
-Package pdftex.def Info: logo.png  used on input line 800.
+Package pdftex.def Info: logo.png  used on input line 808.
 (pdftex.def)             Requested size: 71.13188pt x 25.89293pt.
 
 Package fancyhdr Warning: \headheight is too small (27.0pt): 
@@ -2887,16 +2669,41 @@ Package fancyhdr Warning: \headheight is too small (27.0pt):
 (fancyhdr)                \setlength{\headheight}{29.49297pt}.
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49297pt}.
+
+
+LaTeX Warning: Reference `LastPage' on page 33 undefined on input line 808.
 
 [33]
 
+! LaTeX Error: Invalid UTF-8 byte sequence (�\expandafter).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.808 ...edad disponible para la fuente delta*H².
+                                                   Se observa una menor seve...
+
+? 
+
+! LaTeX Error: Invalid UTF-8 byte "B2.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.808 ...edad disponible para la fuente delta*H².
+                                                   Se observa una menor seve...
+
+? 
+
 ! LaTeX Error: Invalid UTF-8 byte sequence (�\lst@FillFixed@\lst@EC�).
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.802 ...istintas entre la grilla inicial de 5⁴ 
+l.812 ...istintas entre la grilla inicial de 5⁴ 
                                                   puntos, una grilla global ...
 
 ? 
@@ -2907,7 +2714,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.802 ...istintas entre la grilla inicial de 5⁴ 
+l.812 ...istintas entre la grilla inicial de 5⁴ 
                                                   puntos, una grilla global ...
 
 ? 
@@ -2918,7 +2725,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.802 ...e 5⁴ puntos, una grilla global de 9⁴ 
+l.812 ...e 5⁴ puntos, una grilla global de 9⁴ 
                                                   puntos y el refinamiento l...
 
 ? 
@@ -2929,7 +2736,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.802 ...e 5⁴ puntos, una grilla global de 9⁴ 
+l.812 ...e 5⁴ puntos, una grilla global de 9⁴ 
                                                   puntos y el refinamiento l...
 
 ? 
@@ -2940,7 +2747,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.802 ...� puntos y el refinamiento local de 5⁴ 
+l.812 ...� puntos y el refinamiento local de 5⁴ 
                                                   puntos. Se eliminan los pu...
 
 ? 
@@ -2951,13 +2758,13 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.802 ...� puntos y el refinamiento local de 5⁴ 
+l.812 ...� puntos y el refinamiento local de 5⁴ 
                                                   puntos. Se eliminan los pu...
 
 ? 
 File: logo.png Graphic file (type png)
 <use logo.png>
-Package pdftex.def Info: logo.png  used on input line 830.
+Package pdftex.def Info: logo.png  used on input line 835.
 (pdftex.def)             Requested size: 71.13188pt x 25.89293pt.
 
 Package fancyhdr Warning: \headheight is too small (27.0pt): 
@@ -2965,27 +2772,30 @@ Package fancyhdr Warning: \headheight is too small (27.0pt):
 (fancyhdr)                \setlength{\headheight}{29.49297pt}.
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49297pt}.
+
+
+LaTeX Warning: Reference `LastPage' on page 34 undefined on input line 835.
 
 [34]
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.869 \subsection{verificar_resultados.py}
+l.879 \subsection{verificar_resultados.py}
                                           
 ? 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.869 \subsection{verificar_resultados.py}
+l.879 \subsection{verificar_resultados.py}
                                           
 ? 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `subscript' on input line 869.
+(hyperref)                removing `subscript' on input line 879.
 
 File: logo.png Graphic file (type png)
 <use logo.png>
-Package pdftex.def Info: logo.png  used on input line 887.
+Package pdftex.def Info: logo.png  used on input line 889.
 (pdftex.def)             Requested size: 71.13188pt x 25.89293pt.
 
 Package fancyhdr Warning: \headheight is too small (27.0pt): 
@@ -2993,11 +2803,14 @@ Package fancyhdr Warning: \headheight is too small (27.0pt):
 (fancyhdr)                \setlength{\headheight}{29.49297pt}.
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49297pt}.
+
+
+LaTeX Warning: Reference `LastPage' on page 35 undefined on input line 889.
 
 [35]
 File: logo.png Graphic file (type png)
 <use logo.png>
-Package pdftex.def Info: logo.png  used on input line 946.
+Package pdftex.def Info: logo.png  used on input line 948.
 (pdftex.def)             Requested size: 71.13188pt x 25.89293pt.
 
 
@@ -3006,6 +2819,9 @@ Package fancyhdr Warning: \headheight is too small (27.0pt):
 (fancyhdr)                \setlength{\headheight}{29.49297pt}.
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49297pt}.
+
+
+LaTeX Warning: Reference `LastPage' on page 36 undefined on input line 948.
 
 [36]
 
@@ -3015,7 +2831,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.952 ..._clave.keys(), "La grilla global de 9⁴ 
+l.962 ..._clave.keys(), "La grilla global de 9⁴ 
                                                   puntos está incompleta.")
 ? 
 
@@ -3025,12 +2841,12 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.952 ..._clave.keys(), "La grilla global de 9⁴ 
+l.962 ..._clave.keys(), "La grilla global de 9⁴ 
                                                   puntos está incompleta.")
 ? 
 File: logo.png Graphic file (type png)
 <use logo.png>
-Package pdftex.def Info: logo.png  used on input line 996.
+Package pdftex.def Info: logo.png  used on input line 998.
 (pdftex.def)             Requested size: 71.13188pt x 25.89293pt.
 
 Package fancyhdr Warning: \headheight is too small (27.0pt): 
@@ -3039,46 +2855,49 @@ Package fancyhdr Warning: \headheight is too small (27.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49297pt}.
 
+
+LaTeX Warning: Reference `LastPage' on page 37 undefined on input line 998.
+
 [37]
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.1028 \end{lstlisting}
+l.1038 \end{lstlisting}
                        
 ? 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.1028 \end{lstlisting}
+l.1038 \end{lstlisting}
                        
 ? 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.1028 \end{lstlisting}
+l.1038 \end{lstlisting}
                        
 ? 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.1028 \end{lstlisting}
+l.1038 \end{lstlisting}
                        
 ? 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.1030 \subsection{test_numerica.py}
+l.1040 \subsection{test_numerica.py}
                                     
 ? 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.1030 \subsection{test_numerica.py}
+l.1040 \subsection{test_numerica.py}
                                     
 ? 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `subscript' on input line 1030.
+(hyperref)                removing `subscript' on input line 1040.
 
 File: logo.png Graphic file (type png)
 <use logo.png>
@@ -3091,6 +2910,9 @@ Package fancyhdr Warning: \headheight is too small (27.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49297pt}.
 
+
+LaTeX Warning: Reference `LastPage' on page 38 undefined on input line 1051.
+
 [38]
 
 ! LaTeX Error: Invalid UTF-8 byte sequence (�\expandafter).
@@ -3099,7 +2921,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1052 ...    # Estado no nulo: comprueba HP, H²,
+l.1062 ...    # Estado no nulo: comprueba HP, H²,
                                                    T² y el enfriamiento por H.
 
 ? 
@@ -3110,7 +2932,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1052 ...    # Estado no nulo: comprueba HP, H²,
+l.1062 ...    # Estado no nulo: comprueba HP, H²,
                                                    T² y el enfriamiento por H.
 
 ? 
@@ -3121,7 +2943,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1052 ... Estado no nulo: comprueba HP, H², T² 
+l.1062 ... Estado no nulo: comprueba HP, H², T² 
                                                   y el enfriamiento por H.
 ? 
 
@@ -3131,12 +2953,12 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1052 ... Estado no nulo: comprueba HP, H², T² 
+l.1062 ... Estado no nulo: comprueba HP, H², T² 
                                                   y el enfriamiento por H.
 ? 
 File: logo.png Graphic file (type png)
 <use logo.png>
-Package pdftex.def Info: logo.png  used on input line 1115.
+Package pdftex.def Info: logo.png  used on input line 1114.
 (pdftex.def)             Requested size: 71.13188pt x 25.89293pt.
 
 Package fancyhdr Warning: \headheight is too small (27.0pt): 
@@ -3144,11 +2966,14 @@ Package fancyhdr Warning: \headheight is too small (27.0pt):
 (fancyhdr)                \setlength{\headheight}{29.49297pt}.
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49297pt}.
+
+
+LaTeX Warning: Reference `LastPage' on page 39 undefined on input line 1114.
 
 [39]
 File: logo.png Graphic file (type png)
 <use logo.png>
-Package pdftex.def Info: logo.png  used on input line 1185.
+Package pdftex.def Info: logo.png  used on input line 1184.
 (pdftex.def)             Requested size: 71.13188pt x 25.89293pt.
 
 
@@ -3157,36 +2982,39 @@ Package fancyhdr Warning: \headheight is too small (27.0pt):
 (fancyhdr)                \setlength{\headheight}{29.49297pt}.
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49297pt}.
+
+
+LaTeX Warning: Reference `LastPage' on page 40 undefined on input line 1184.
 
 [40]
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.1223 \end{lstlisting}
+l.1233 \end{lstlisting}
                        
 ? 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.1223 \end{lstlisting}
+l.1233 \end{lstlisting}
                        
 ? 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.1223 \end{lstlisting}
+l.1233 \end{lstlisting}
                        
 ? 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.1223 \end{lstlisting}
+l.1233 \end{lstlisting}
                        
 ? 
 )
 File: logo.png Graphic file (type png)
 <use logo.png>
-Package pdftex.def Info: logo.png  used on input line 153.
+Package pdftex.def Info: logo.png  used on input line 154.
 (pdftex.def)             Requested size: 71.13188pt x 25.89293pt.
 
 
@@ -3195,6 +3023,9 @@ Package fancyhdr Warning: \headheight is too small (27.0pt):
 (fancyhdr)                \setlength{\headheight}{29.49297pt}.
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49297pt}.
+
+
+LaTeX Warning: Reference `LastPage' on page 41 undefined on input line 154.
 
 [41] 
 enddocument/afterlastpage (AED): lastpage setting LastPage.
@@ -3207,61 +3038,659 @@ LaTeX Info: Redefining \% on input line 12.
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-12-24>
  ***********
+
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: BC0E768E5DB703282DDE60EA139F3BF6;5486.
+(rerunfilecheck)             Checksum: E6E5D57C9B589DA649F97BEB76821774;5664.
+
+Package lastpage Warning: Rerun to get the references right on input line 154.
+
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 40642 strings out of 467871
- 759743 string characters out of 5417408
- 2623577 words of memory out of 5000000
- 67580 multiletter control sequences out of 15000+600000
- 650847 words of font info for 100 fonts, out of 8000000 for 9000
+ 40649 strings out of 467871
+ 759924 string characters out of 5417408
+ 2624238 words of memory out of 5000000
+ 67583 multiletter control sequences out of 15000+600000
+ 651623 words of font info for 101 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 103i,16n,118p,695b,2454s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 103i,16n,118p,695b,2459s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\Facundo\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi450\ec
 tt0800.pk> <C:\Users\Facundo\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/d
 pi600\tctt0800.pk> <C:\Users\Facundo\AppData\Local\MiKTeX\fonts/pk/ljfour/jknap
 pen/ec/dpi600\ectt0800.pk> <C:\Users\Facundo\AppData\Local\MiKTeX\fonts/pk/ljfo
 ur/jknappen/ec/dpi600\ecrm0500.pk> <C:\Users\Facundo\AppData\Local\MiKTeX\fonts
-/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk> <C:\Users\Facundo\AppData\Local\MiKT
-eX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0900.pk> <C:\Users\Facundo\AppData\Lo
-cal\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\Facundo\Ap
-pData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\Fa
-cundo\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1000.pk> <C:\
-Users\Facundo\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.
+/pk/ljfour/jknappen/ec/dpi600\ectt1000.pk> <C:\Users\Facundo\AppData\Local\MiKT
+eX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk> <C:\Users\Facundo\AppData\Lo
+cal\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0900.pk> <C:\Users\Facundo\Ap
+pData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\Fa
+cundo\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx0900.pk> <C:\
+Users\Facundo\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1000.
 pk> <C:\Users\Facundo\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\e
-ccc0800.pk> <C:\Users\Facundo\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/
-dpi600\tcrm1200.pk> <C:\Users\Facundo\AppData\Local\MiKTeX\fonts/pk/ljfour/jkna
-ppen/ec/dpi600\ecrm1200.pk> <C:\Users\Facundo\AppData\Local\MiKTeX\fonts/pk/ljf
-our/jknappen/ec/dpi600\ecbx2074.pk> <C:\Users\Facundo\AppData\Local\MiKTeX\font
-s/pk/ljfour/jknappen/ec/dpi600\eccc0900.pk> <C:\Users\Facundo\AppData\Local\MiK
-TeX\fonts/pk/ljfour/jknappen/ec/dpi600\eccc1440.pk><C:/Users/Facundo/AppData/Lo
-cal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Facundo
-/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Us
-ers/Facundo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10
-.pfb><C:/Users/Facundo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfont
-s/cm/cmmi12.pfb><C:/Users/Facundo/AppData/Local/Programs/MiKTeX/fonts/type1/pub
-lic/amsfonts/cm/cmmi5.pfb><C:/Users/Facundo/AppData/Local/Programs/MiKTeX/fonts
-/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/Facundo/AppData/Local/Programs/Mi
-KTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/Facundo/AppData/Local/P
-rograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/Facundo/AppDa
-ta/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi9.pfb><C:/Users/Fac
-undo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:
-/Users/Facundo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr
-5.pfb><C:/Users/Facundo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
-ts/cm/cmr6.pfb><C:/Users/Facundo/AppData/Local/Programs/MiKTeX/fonts/type1/publ
-ic/amsfonts/cm/cmr7.pfb><C:/Users/Facundo/AppData/Local/Programs/MiKTeX/fonts/t
-ype1/public/amsfonts/cm/cmr9.pfb><C:/Users/Facundo/AppData/Local/Programs/MiKTe
-X/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Facundo/AppData/Local/Pro
-grams/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Users/Facundo/AppData
-/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/Facun
-do/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy9.pfb>
-Output written on main.pdf (41 pages, 1932551 bytes).
+cbx1000.pk> <C:\Users\Facundo\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/
+dpi600\ecbx1440.pk> <C:\Users\Facundo\AppData\Local\MiKTeX\fonts/pk/ljfour/jkna
+ppen/ec/dpi600\eccc0800.pk> <C:\Users\Facundo\AppData\Local\MiKTeX\fonts/pk/ljf
+our/jknappen/ec/dpi600\tcrm1200.pk> <C:\Users\Facundo\AppData\Local\MiKTeX\font
+s/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\Facundo\AppData\Local\MiK
+TeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2074.pk> <C:\Users\Facundo\AppData\L
+ocal\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\eccc0900.pk> <C:\Users\Facundo\A
+ppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\eccc1440.pk><C:/Users/Fa
+cundo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><
+C:/Users/Facundo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/c
+mex10.pfb><C:/Users/Facundo/AppData/Local/Programs/MiKTeX/fonts/type1/public/am
+sfonts/cm/cmmi10.pfb><C:/Users/Facundo/AppData/Local/Programs/MiKTeX/fonts/type
+1/public/amsfonts/cm/cmmi12.pfb><C:/Users/Facundo/AppData/Local/Programs/MiKTeX
+/fonts/type1/public/amsfonts/cm/cmmi5.pfb><C:/Users/Facundo/AppData/Local/Progr
+ams/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/Facundo/AppData/L
+ocal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/Facundo
+/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Use
+rs/Facundo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi9.p
+fb><C:/Users/Facundo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/
+cm/cmr10.pfb><C:/Users/Facundo/AppData/Local/Programs/MiKTeX/fonts/type1/public
+/amsfonts/cm/cmr5.pfb><C:/Users/Facundo/AppData/Local/Programs/MiKTeX/fonts/typ
+e1/public/amsfonts/cm/cmr6.pfb><C:/Users/Facundo/AppData/Local/Programs/MiKTeX/
+fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/Facundo/AppData/Local/Program
+s/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/Facundo/AppData/Loca
+l/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Facundo/A
+ppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Users
+/Facundo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb
+><C:/Users/Facundo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm
+/cmsy9.pfb>
+Output written on main.pdf (41 pages, 1946337 bytes).
 PDF statistics:
- 2493 PDF objects out of 2984 (max. 8388607)
- 1290 named destinations out of 1440 (max. 500000)
- 437 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 2541 PDF objects out of 2984 (max. 8388607)
+ 1291 named destinations out of 1440 (max. 500000)
+ 445 words of extra memory for PDF output out of 10000 (max. 10000000)
+
+e file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+text/codigo.tex:804: LaTeX Error: Invalid UTF-8 byte "92.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.804 ...s.append(f"| {n} | {fs[0]['SP']:.6g} → 
+                                                  {fs[-1]['SP']:.6g} | {fs[0...
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+text/codigo.tex:804: LaTeX Error: Invalid UTF-8 byte sequence (�\lst@FillFixed@\lst@EC�).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.804 ...['SP']:.6g} | {fs[0]['desfase']:.6g} → 
+                                                  {fs[-1]['desfase']:.6g} |")
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+text/codigo.tex:804: LaTeX Error: Invalid UTF-8 byte "92.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.804 ...['SP']:.6g} | {fs[0]['desfase']:.6g} → 
+                                                  {fs[-1]['desfase']:.6g} |")
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+text/codigo.tex:807: LaTeX Error: Invalid UTF-8 byte sequence (�\expandafter).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.807 ...** aumenta la fuente de humedad beta*T².
+                                                   En este rango aumenta SP ...
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+text/codigo.tex:807: LaTeX Error: Invalid UTF-8 byte "B2.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.807 ...** aumenta la fuente de humedad beta*T².
+                                                   En este rango aumenta SP ...
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+File: logo.png Graphic file (type png)
+<use logo.png>
+Package pdftex.def Info: logo.png  used on input line 808.
+(pdftex.def)             Requested size: 71.13188pt x 25.89293pt.
+
+Package fancyhdr Warning: \headheight is too small (27.0pt): 
+(fancyhdr)                Make it at least 29.49297pt, for example:
+(fancyhdr)                \setlength{\headheight}{29.49297pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49297pt}.
+
+
+LaTeX Warning: Reference `LastPage' on page 33 undefined on input line 808.
+
+[33]
+
+text/codigo.tex:808: LaTeX Error: Invalid UTF-8 byte sequence (�\expandafter).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.808 ...edad disponible para la fuente delta*H².
+                                                   Se observa una menor seve...
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+text/codigo.tex:808: LaTeX Error: Invalid UTF-8 byte "B2.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.808 ...edad disponible para la fuente delta*H².
+                                                   Se observa una menor seve...
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+text/codigo.tex:812: LaTeX Error: Invalid UTF-8 byte sequence (�\lst@FillFixed@\lst@EC�).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.812 ...istintas entre la grilla inicial de 5⁴ 
+                                                  puntos, una grilla global ...
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+text/codigo.tex:812: LaTeX Error: Invalid UTF-8 byte "B4.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.812 ...istintas entre la grilla inicial de 5⁴ 
+                                                  puntos, una grilla global ...
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+text/codigo.tex:812: LaTeX Error: Invalid UTF-8 byte sequence (�\lst@FillFixed@\lst@EC�).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.812 ...e 5⁴ puntos, una grilla global de 9⁴ 
+                                                  puntos y el refinamiento l...
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+text/codigo.tex:812: LaTeX Error: Invalid UTF-8 byte "B4.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.812 ...e 5⁴ puntos, una grilla global de 9⁴ 
+                                                  puntos y el refinamiento l...
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+text/codigo.tex:812: LaTeX Error: Invalid UTF-8 byte sequence (�\lst@FillFixed@\lst@EC�).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.812 ...� puntos y el refinamiento local de 5⁴ 
+                                                  puntos. Se eliminan los pu...
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+text/codigo.tex:812: LaTeX Error: Invalid UTF-8 byte "B4.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.812 ...� puntos y el refinamiento local de 5⁴ 
+                                                  puntos. Se eliminan los pu...
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+File: logo.png Graphic file (type png)
+<use logo.png>
+Package pdftex.def Info: logo.png  used on input line 835.
+(pdftex.def)             Requested size: 71.13188pt x 25.89293pt.
+
+Package fancyhdr Warning: \headheight is too small (27.0pt): 
+(fancyhdr)                Make it at least 29.49297pt, for example:
+(fancyhdr)                \setlength{\headheight}{29.49297pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49297pt}.
+
+
+LaTeX Warning: Reference `LastPage' on page 34 undefined on input line 835.
+
+[34]
+text/codigo.tex:879: Missing $ inserted.
+<inserted text> 
+                $
+l.879 \subsection{verificar_resultados.py}
+                                          
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+text/codigo.tex:879: Missing $ inserted.
+<inserted text> 
+                $
+l.879 \subsection{verificar_resultados.py}
+                                          
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 879.
+
+File: logo.png Graphic file (type png)
+<use logo.png>
+Package pdftex.def Info: logo.png  used on input line 889.
+(pdftex.def)             Requested size: 71.13188pt x 25.89293pt.
+
+Package fancyhdr Warning: \headheight is too small (27.0pt): 
+(fancyhdr)                Make it at least 29.49297pt, for example:
+(fancyhdr)                \setlength{\headheight}{29.49297pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49297pt}.
+
+
+LaTeX Warning: Reference `LastPage' on page 35 undefined on input line 889.
+
+[35]
+File: logo.png Graphic file (type png)
+<use logo.png>
+Package pdftex.def Info: logo.png  used on input line 948.
+(pdftex.def)             Requested size: 71.13188pt x 25.89293pt.
+
+
+Package fancyhdr Warning: \headheight is too small (27.0pt): 
+(fancyhdr)                Make it at least 29.49297pt, for example:
+(fancyhdr)                \setlength{\headheight}{29.49297pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49297pt}.
+
+
+LaTeX Warning: Reference `LastPage' on page 36 undefined on input line 948.
+
+[36]
+
+text/codigo.tex:962: LaTeX Error: Invalid UTF-8 byte sequence (�\lst@FillFixed@\lst@EC�).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.962 ..._clave.keys(), "La grilla global de 9⁴ 
+                                                  puntos está incompleta.")
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+text/codigo.tex:962: LaTeX Error: Invalid UTF-8 byte "B4.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.962 ..._clave.keys(), "La grilla global de 9⁴ 
+                                                  puntos está incompleta.")
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+File: logo.png Graphic file (type png)
+<use logo.png>
+Package pdftex.def Info: logo.png  used on input line 998.
+(pdftex.def)             Requested size: 71.13188pt x 25.89293pt.
+
+Package fancyhdr Warning: \headheight is too small (27.0pt): 
+(fancyhdr)                Make it at least 29.49297pt, for example:
+(fancyhdr)                \setlength{\headheight}{29.49297pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49297pt}.
+
+
+LaTeX Warning: Reference `LastPage' on page 37 undefined on input line 998.
+
+[37]
+text/codigo.tex:1038: Missing $ inserted.
+<inserted text> 
+                $
+l.1038 \end{lstlisting}
+                       
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+text/codigo.tex:1038: Missing $ inserted.
+<inserted text> 
+                $
+l.1038 \end{lstlisting}
+                       
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+text/codigo.tex:1038: Missing $ inserted.
+<inserted text> 
+                $
+l.1038 \end{lstlisting}
+                       
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+text/codigo.tex:1038: Missing $ inserted.
+<inserted text> 
+                $
+l.1038 \end{lstlisting}
+                       
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+text/codigo.tex:1040: Missing $ inserted.
+<inserted text> 
+                $
+l.1040 \subsection{test_numerica.py}
+                                    
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+text/codigo.tex:1040: Missing $ inserted.
+<inserted text> 
+                $
+l.1040 \subsection{test_numerica.py}
+                                    
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 1040.
+
+File: logo.png Graphic file (type png)
+<use logo.png>
+Package pdftex.def Info: logo.png  used on input line 1051.
+(pdftex.def)             Requested size: 71.13188pt x 25.89293pt.
+
+Package fancyhdr Warning: \headheight is too small (27.0pt): 
+(fancyhdr)                Make it at least 29.49297pt, for example:
+(fancyhdr)                \setlength{\headheight}{29.49297pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49297pt}.
+
+
+LaTeX Warning: Reference `LastPage' on page 38 undefined on input line 1051.
+
+[38]
+
+text/codigo.tex:1062: LaTeX Error: Invalid UTF-8 byte sequence (�\expandafter).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1062 ...    # Estado no nulo: comprueba HP, H²,
+                                                   T² y el enfriamiento por H.
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+text/codigo.tex:1062: LaTeX Error: Invalid UTF-8 byte "B2.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1062 ...    # Estado no nulo: comprueba HP, H²,
+                                                   T² y el enfriamiento por H.
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+text/codigo.tex:1062: LaTeX Error: Invalid UTF-8 byte sequence (�\expandafter).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1062 ... Estado no nulo: comprueba HP, H², T² 
+                                                  y el enfriamiento por H.
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+text/codigo.tex:1062: LaTeX Error: Invalid UTF-8 byte "B2.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1062 ... Estado no nulo: comprueba HP, H², T² 
+                                                  y el enfriamiento por H.
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+File: logo.png Graphic file (type png)
+<use logo.png>
+Package pdftex.def Info: logo.png  used on input line 1114.
+(pdftex.def)             Requested size: 71.13188pt x 25.89293pt.
+
+Package fancyhdr Warning: \headheight is too small (27.0pt): 
+(fancyhdr)                Make it at least 29.49297pt, for example:
+(fancyhdr)                \setlength{\headheight}{29.49297pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49297pt}.
+
+
+LaTeX Warning: Reference `LastPage' on page 39 undefined on input line 1114.
+
+[39]
+File: logo.png Graphic file (type png)
+<use logo.png>
+Package pdftex.def Info: logo.png  used on input line 1184.
+(pdftex.def)             Requested size: 71.13188pt x 25.89293pt.
+
+
+Package fancyhdr Warning: \headheight is too small (27.0pt): 
+(fancyhdr)                Make it at least 29.49297pt, for example:
+(fancyhdr)                \setlength{\headheight}{29.49297pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49297pt}.
+
+
+LaTeX Warning: Reference `LastPage' on page 40 undefined on input line 1184.
+
+[40]
+text/codigo.tex:1233: Missing $ inserted.
+<inserted text> 
+                $
+l.1233 \end{lstlisting}
+                       
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+text/codigo.tex:1233: Missing $ inserted.
+<inserted text> 
+                $
+l.1233 \end{lstlisting}
+                       
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+text/codigo.tex:1233: Missing $ inserted.
+<inserted text> 
+                $
+l.1233 \end{lstlisting}
+                       
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+text/codigo.tex:1233: Missing $ inserted.
+<inserted text> 
+                $
+l.1233 \end{lstlisting}
+                       
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+)
+File: logo.png Graphic file (type png)
+<use logo.png>
+Package pdftex.def Info: logo.png  used on input line 154.
+(pdftex.def)             Requested size: 71.13188pt x 25.89293pt.
+
+
+Package fancyhdr Warning: \headheight is too small (27.0pt): 
+(fancyhdr)                Make it at least 29.49297pt, for example:
+(fancyhdr)                \setlength{\headheight}{29.49297pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49297pt}.
+
+
+LaTeX Warning: Reference `LastPage' on page 41 undefined on input line 154.
+
+[41] 
+enddocument/afterlastpage (AED): lastpage setting LastPage.
+(main.aux
+LaTeX Info: Redefining \sptext on input line 12.
+LaTeX Info: Redefining \. on input line 12.
+LaTeX Info: Redefining \% on input line 12.
+)
+ ***********
+LaTeX2e <2025-11-01>
+L3 programming layer <2025-12-24>
+ ***********
+
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+
+Package rerunfilecheck Warning: File `main.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `main.out':
+(rerunfilecheck)             Before: <no file>
+(rerunfilecheck)             After:  E6E5D57C9B589DA649F97BEB76821774;5664.
+
+Package lastpage Warning: Rerun to get the references right on input line 154.
+
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                main
+(biblatex)                and rerun LaTeX afterwards.
+
+Package logreq Info: Writing requests to 'main.run.xml'.
+\openout1 = `main.run.xml'.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 40616 strings out of 467871
+ 759406 string characters out of 5417408
+ 2622256 words of memory out of 5000000
+ 67554 multiletter control sequences out of 15000+600000
+ 651623 words of font info for 101 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 103i,16n,118p,780b,2459s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\Facundo\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi450\ectt0800.pk> <C:\Users\Facundo\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tctt0800.pk> <C:\Users\Facundo\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt0800.pk> <C:\Users\Facundo\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0500.pk> <C:\Users\Facundo\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1000.pk> <C:\Users\Facundo\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk> <C:\Users\Facundo\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0900.pk> <C:\Users\Facundo\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1000.pk> <C:\Users\Facundo\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\Facundo\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\Facundo\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx0900.pk> <C:\Users\Facundo\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\Facundo\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\eccc0800.pk> <C:\Users\Facundo\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk> <C:\Users\Facundo\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\Facundo\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2074.pk> <C:\Users\Facundo\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\eccc0900.pk> <C:\Users\Facundo\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\eccc1440.pk><C:/Users/Facundo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Facundo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/Facundo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Facundo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/Facundo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi5.pfb><C:/Users/Facundo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/Facundo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/Facundo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/Facundo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi9.pfb><C:/Users/Facundo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Facundo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Users/Facundo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/Facundo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/Facundo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/Facundo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Facundo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Users/Facundo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/Facundo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy9.pfb>
+Output written on main.pdf (41 pages, 1924454 bytes).
+PDF statistics:
+ 2420 PDF objects out of 2487 (max. 8388607)
+ 1291 named destinations out of 1440 (max. 500000)
+ 237 words of extra memory for PDF output out of 10000 (max. 10000000)
 

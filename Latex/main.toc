@@ -19,8 +19,9 @@
 \contentsline {section}{\numberline {5}Conclusiones}{19}{section.5}%
 \contentsline {section}{\numberline {A}Uso de IA}{20}{appendix.Alph1}%
 \contentsline {section}{\numberline {B}Codigo}{20}{appendix.Alph2}%
-\contentsline {subsection}{\numberline {B.1}modelo.py}{20}{subsection.Alph2.1}%
-\contentsline {subsection}{\numberline {B.2}experimentos.py}{22}{subsection.Alph2.2}%
-\contentsline {subsection}{\numberline {B.3}analisis.py}{25}{subsection.Alph2.3}%
-\contentsline {subsection}{\numberline {B.4}verificar_resultados.py}{35}{subsection.Alph2.4}%
-\contentsline {subsection}{\numberline {B.5}test_numerica.py}{38}{subsection.Alph2.5}%
+\contentsline {subsection}{\numberline {B.1}Repositorio de GitHub}{20}{subsection.Alph2.1}%
+\contentsline {subsection}{\numberline {B.2}modelo.py}{20}{subsection.Alph2.2}%
+\contentsline {subsection}{\numberline {B.3}experimentos.py}{23}{subsection.Alph2.3}%
+\contentsline {subsection}{\numberline {B.4}analisis.py}{25}{subsection.Alph2.4}%
+\contentsline {subsection}{\numberline {B.5}verificar_resultados.py}{35}{subsection.Alph2.5}%
+\contentsline {subsection}{\numberline {B.6}test_numerica.py}{38}{subsection.Alph2.6}%
