@@ -1,0 +1,46 @@
+\section{Conclusiones}
+
+\textbf{Parte 1:}
+\begin{itemize}
+    \item Con una referencia de Euler de paso $h_{\mathrm{ref}}=12/2^{18}$,
+    el error máximo de $T$ disminuyó de forma proporcional a $h$ en el rango
+    convergente. Los órdenes observados estuvieron entre $1{,}006$ y $1{,}021$
+    y la pendiente del ajuste log-log fue $1{,}0096$, compatibles con el orden
+    $1$ esperado para Euler explícito.
+    \item Al aumentar el paso, el error dejó de ser proporcional a $h$ y
+    apareció crecimiento explosivo. En el barrido fino, el error máximo de $T$
+    pasó de $0{,}696$ a $4{,}42\times10^{49}\;{}^\circ\mathrm{C}$ entre
+    $h=1{,}1859$ y $h=1{,}1860$ meses, y el primer desbordamiento apareció
+    en $h=1{,}1865$ meses. Esta zona de transición es irregular: pasos muy
+    cercanos dan comportamientos distintos, por lo que estos valores no son un
+    umbral exacto.
+    \item El error de discretización disminuye al refinar $h$. La inestabilidad
+    numérica, en cambio, se manifiesta como oscilaciones artificiales y
+    crecimiento explosivo que no se corrigen refinando poco el paso. Una
+    solución finita no es necesariamente estable ni precisa: con $h=6$ y
+    $h=12$ meses los resultados fueron finitos, pero incompatibles con la
+    referencia.
+\end{itemize}
+
+
+\textbf{Parte 2
+:}
+\begin{itemize}
+    \item Con $h=12/4096$ meses, muy por debajo de la zona de inestabilidad,
+    los indicadores cambiaron como máximo $0{,}1305\,\%$ en $S_P$ y $0{,}0088$
+    meses en el desfase al duplicar el paso. En el caso nominal, $S_P=0{,}4287$ y $\Delta t_{TP}=0{,}826$ meses.
+    \item En los barridos individuales, $S_P$ aumenta con $A$, $\beta$ y
+    $\sigma$ y disminuye con $\gamma$, y el desfase disminuye al aumentar
+    cualquiera de los cuatro. $A$ es el que más modifica $S_P$.
+    \item De las $7170$ combinaciones evaluadas, la que maximiza $S_P$ es
+    $(A,\beta,\gamma,\sigma)=(0{,}60;\,0{,}30;\,0{,}05;\,1{,}00)$, con
+    $S_P=0{,}9913$, unas $2{,}31$ veces el nominal.
+    \item Ese escenario \textbf{no} es el de todos los parámetros en su
+    máximo: $\gamma$ es un sumidero de humedad y debe estar en su mínimo.
+    Con todos en su máximo, $S_P=0{,}6260$.
+\end{itemize}
+
+\textbf{Limitaciones.} El mejor escenario es el mejor entre los valores
+evaluados, no un máximo absoluto demostrado. La repetición anual se verificó
+con dos ciclos y una tolerancia, y el modelo es una simplificación sin ajuste
+a datos observados, por lo que no constituye un pronóstico climático.

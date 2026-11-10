@@ -1,0 +1,26 @@
+\babel@toc {spanish}{}\relax 
+\contentsline {section}{\numberline {1}Introducción}{3}{section.1}%
+\contentsline {section}{\numberline {2}Modelo y metodología}{4}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Ecuaciones del modelo}{4}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Parámetros nominales}{4}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Condiciones iniciales e intervalo de integración}{4}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Metodología numérica}{5}{subsection.2.4}%
+\contentsline {section}{\numberline {3}Parte 1: Convergencia, orden y estabilidad del método de Euler}{6}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Resolución del sistema mediante el método de Euler explícito}{6}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Obtención de una solución “de referencia”}{7}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Error máximo para distintos pasos}{7}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Orden de convergencia observado}{7}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.5}Estabilidad al aumentar el paso}{8}{subsection.3.5}%
+\contentsline {section}{\numberline {4}Parte 2: Severidad estacional, desfase y sensibilidad paramétrica}{10}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Selección del paso temporal y análisis general}{10}{subsection.4.1}%
+\contentsline {subsubsection}{\numberline {4.1.1}Comportamiento del modelo con los parámetros nominales}{10}{subsubsection.4.1.1}%
+\contentsline {subsubsection}{\numberline {4.1.2}Sensibilidad paramétrica individual}{12}{subsubsection.4.1.2}%
+\contentsline {subsubsection}{\numberline {4.1.3}Búsqueda conjunta y comparación con el escenario nominal}{14}{subsubsection.4.1.3}%
+\contentsline {section}{\numberline {5}Conclusiones}{19}{section.5}%
+\contentsline {section}{\numberline {A}Uso de IA}{20}{appendix.Alph1}%
+\contentsline {section}{\numberline {B}Codigo}{20}{appendix.Alph2}%
+\contentsline {subsection}{\numberline {B.1}modelo.py}{20}{subsection.Alph2.1}%
+\contentsline {subsection}{\numberline {B.2}experimentos.py}{22}{subsection.Alph2.2}%
+\contentsline {subsection}{\numberline {B.3}analisis.py}{25}{subsection.Alph2.3}%
+\contentsline {subsection}{\numberline {B.4}verificar_resultados.py}{35}{subsection.Alph2.4}%
+\contentsline {subsection}{\numberline {B.5}test_numerica.py}{38}{subsection.Alph2.5}%
